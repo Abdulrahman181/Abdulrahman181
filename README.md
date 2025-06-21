@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahman Ahmed Mahmoud Hassan</h1>
+<h1 align="center">Hi 👋, I'm Abdul Rahman Ahmed</h1>
 <h3 align="center">A Data Scientist & AI Engineer from Egypt 🇪🇬</h3>
 
 ---
@@ -13,6 +13,8 @@
   - Object Detection with Computer Vision
 - 🌱 I'm expanding my skills in **Generative AI**, **LLMs**, and **Big Data Technologies**
 - 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, **NLP**, or **Computer Vision**
+- 🧠 Passionate about solving real-world problems with data and AI!
+
 
 ---
 
@@ -31,6 +33,7 @@
 - Data Analysis & Visualization
 - Computer Vision
 - Time Series Analysis
+- Data Wrangling & Feature Engineering
 
 #### ☁️ Big Data & Version Control
 `Hadoop`, `Git`, `GitHub`
