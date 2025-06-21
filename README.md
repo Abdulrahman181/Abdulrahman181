@@ -5,16 +5,34 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on real-world projects involving:
-  - Customer Segmentation
-  - Fraud Detection
-  - Stock Price Prediction
-  - Social Media Sentiment Analysis
-  - Object Detection with Computer Vision
-- 🌱 I'm expanding my skills in **Generative AI**, **LLMs**, and **Big Data Technologies**
-- 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, **NLP**, or **Computer Vision**
-- 🧠 Passionate about solving real-world problems with data and AI!
+Hi! I'm **Abdul Rahman Ahmed**, a graduate of the Faculty of Computers and Artificial Intelligence.  
+I'm deeply passionate about **Artificial Intelligence** and **Data Science**, and I strive to leverage modern technologies to solve real-world problems in smart and impactful ways.
 
+I have a strong background in:
+
+- Data analysis and pattern discovery  
+- Building and training Machine Learning and Deep Learning models  
+- Natural Language Processing (NLP)  
+- Computer Vision applications  
+
+✨ I believe that data and AI are powerful tools for driving meaningful change in the world.
+
+---
+
+### 🚀 Currently:
+
+- 🌱 I'm expanding my skills in:
+  - **Generative AI**
+  - **Large Language Models (LLMs)**
+  - **Big Data Technologies**
+
+- 💬 I'm open to discussions about:
+  - Machine Learning  
+  - Deep Learning  
+  - NLP  
+  - Computer Vision
+
+- 🧠 I'm passionate about using AI and data to develop intelligent solutions that have real-world impact.
 
 ---
 
