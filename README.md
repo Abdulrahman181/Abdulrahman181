@@ -1,15 +1,15 @@
 <!-- HEADER SECTION -->
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td width="75%" valign="top">
       <h1>⚡ Abdulrahman Ahmed</h1>
       <h3>Data Scientist | AI Systems Engineer | Data Analyst</h3>
-      <p><i>Bridging the gap between statistical data science, advanced analytics, and production-grade AI architectures. Focused on constructing defensible machine learning pipelines, distributed big data workflows, and optimized inference engines.</i></p>
+      <p><i>Turning raw data into production-ready AI systems. Building robust ML pipelines, scalable big data solutions, and lightning-fast inference engines.</i></p>
       <p>📍 Benha, Egypt | 💻 Available for Remote & Global Opportunities</p>
     </td>
     <td width="25%" align="right" valign="top">
-      <a href="https://linkedin.com/in/abdul-rahman-ahmed-711565255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
-      <a href="mailto:abdulrahmannassar202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+      <a href="https://linkedin.com/in/abdul-rahman-ahmed-711565255"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
+      <a href="mailto:abdulrahmannassar202@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
     </td>
   </tr>
 </table>
@@ -20,26 +20,31 @@
 ## 📊 Technical Performance & Impact Dashboard
 *Verified baseline metrics, model evaluations, and data processing scales achieved across core engineering workloads.*
 
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-  <tr bgcolor="#0d1117">
-    <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>99.2%</b></font>
+<table width="100%">
+  <tr>
+    <td width="20%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>99.2%</b></font>
       <p><b>AUC-ROC Score</b><br><small>Fraud Ensemble Model</small></p>
     </td>
-    <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>95.0%</b></font>
-      <p><b>mAP Score</b><br><small>YOLOv8 CV Model</small></p>
+    <td width="20%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>95.0%</b></font>
+      <p><b>mAP Score</b><br><small>YOLOv8 Computer Vision</small></p>
     </td>
-    <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>&lt; 50ms</b></font>
-      <p><b>Inference Latency</b><br><small>Edge Pipeline Simulation</small></p>
+    <td width="20%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>&lt; 50ms</b></font>
+      <p><b>Inference Latency</b><br><small>Edge Deployment Pipeline</small></p>
     </td>
-    <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#58a6ff"><b>6.3M+</b></font>
+    <td width="20%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>6.3M+</b></font>
       <p><b>Records Processed</b><br><small>Financial Analytics Data</small></p>
     </td>
-    <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#58a6ff"><b>100+</b></font>
+    <td width="20%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>100+</b></font>
       <p><b>Engineers Trained</b><br><small>Technical Mentorship</small></p>
     </td>
   </tr>
@@ -75,36 +80,36 @@
 ## 🏆 Featured Production Workloads
 
 ### 🌾 Napta — Smart Agricultural AI Ecosystem
-* **Problem:** Localized, high-accuracy multi-class crop disease detection optimized for resource-constrained edge devices under unstable network environments.
-* **Architecture:** Containerized, lightweight REST API exposing an edge-optimized computer vision model for low-latency inference.
-* **My Role:** AI Engineer (Team Size: 6)
-* **My Contributions:** Owned the end-to-end AI module. Engineered automated data preprocessing and augmentation pipelines. Trained and fine-tuned custom **YOLOv8** architectures across 12 distinct crop disease profiles, and optimized edge client inference paths.
+* **Problem:** Building a fast, accurate crop disease detector that works on edge devices in farms with poor internet.
+* **Architecture:** Lightweight computer vision model served through a simple Docker + FastAPI endpoint for local use.
+* **My Role:** AI Engineer (Team of 6)
+* **My Contributions:** Took full ownership — handled data prep, image augmentation, trained and optimized **YOLOv8** models for 12 disease types, and tuned inference for speed.
 * **Technical Stack:** PyTorch, YOLOv8, OpenCV, FastAPI, Docker, GitHub Actions.
-* **Results:** Secured a **95.0% mAP score** with **sub-50ms inference latency** in edge simulations. Project awarded an overall grade of **Excellent (A+)**.
+* **Results:** Hit **95% mAP** with under 50ms latency. Project graded **Excellent (A+)**.
 
 ### 💳 High-Precision Financial Fraud Detection Suite
-* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing restrictive false-positive cascades.
-* **Architecture:** Modular predictive pipeline integrating statistical preprocessing, a gradient-boosted ensemble layer, and post-inference model explainability.
+* **Problem:** Detecting fraud in millions of skewed transactions without flooding users with false alarms.
+* **Architecture:** Smart ensemble pipeline with preprocessing, boosted models, and built-in explainability.
 * **My Role:** Solo Developer
-* **My Contributions:** Executed comprehensive EDA on **6.3M+ records**. Handled extreme class imbalance using **SMOTE** oversampling. Built and cross-validated a high-precision tree-based ensemble (**XGBoost, CatBoost, LightGBM**). Integrated a **SHAP** layer for localized feature attribution and audit transparency.
-* **Technical Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, SHAP, Azure ML.
-* **Results:** Achieved a stable **99.2% AUC-ROC score** while significantly reducing false-positive rates across test splits.
+* **My Contributions:** Analyzed **6.3M+ records**, handled heavy imbalance with SMOTE, built a powerful ensemble (**XGBoost + CatBoost + LightGBM**), and added **SHAP** for clear explanations.
+* **Technical Stack:** Python, Pandas, XGBoost, CatBoost, LightGBM, SHAP, Azure ML.
+* **Results:** Reached **99.2% AUC-ROC** with very low false positives.
 
 ### 🏢 Enterprise Document Intelligence Pipeline
-* **Problem:** Eliminating retrieval hallucinations and processing bottlenecks across dense, multi-format corporate knowledge bases without third-party framework orchestrators.
-* **Architecture:** Production-grade, lightweight RAG infrastructure combining low-dimensional dense embedding indexing with deterministic tool-calling operational logic.
+* **Problem:** Building a reliable RAG system for company documents that avoids hallucinations without heavy frameworks.
+* **Architecture:** Clean, fast vector search + smart tool-calling logic.
 * **My Role:** Solo Developer
-* **My Contributions:** Designed custom tokenization boundaries and text-chunking sliding window strategies. Configured dense vector spaces via **SentenceTransformers** and deployed a local **FAISS** lookup index. Programmed native orchestration state logic via the **OpenAI SDK** to enforce strict tool-calling loops and multi-source context matching.
+* **My Contributions:** Designed smart chunking, created embeddings with **SentenceTransformers**, used **FAISS** for fast retrieval, and built custom orchestration with **OpenAI SDK**.
 * **Technical Stack:** Python, SentenceTransformers, FAISS, OpenAI SDK, Streamlit, Docker.
-* **Results:** Delivered a lightweight, containerized corporate knowledge assistant featuring deterministic context control and minimal latency.
+* **Results:** Delivered a fast, containerized knowledge assistant with strong context control.
 
 ### 🏥 Scalable Healthcare Recommendation Engine
-* **Problem:** Scaling distributed data ingestion, feature extraction, and analytical modeling across large volumes of heterogeneous clinical histories.
-* **Architecture:** Distributed big data processing pipeline feeding a decoupled, hybrid collaborative and content-based recommendation matrix.
-* **My Role:** Data Science & Big Data Engineer (Team Size: 4)
-* **My Contributions:** Architected the distributed data ingestion layer using **Apache Spark 3.5**. Configured native pipeline storage clusters atop **Hadoop HDFS**. Built and optimized hybrid recommendation layers utilizing LightGBM and XGBoost models.
-* **Technical Stack:** Apache Spark 3.5, Hadoop HDFS, LightGBM, XGBoost, Apache Airflow, ClickHouse.
-* **Results:** Automated complex workflows via **Apache Airflow DAGs**, enabling efficient multi-specialty clinical recommendation generation over 500k+ medical profiles.
+* **Problem:** Processing huge amounts of clinical data across specialties to give personalized recommendations.
+* **Architecture:** Distributed Spark pipeline + hybrid recommendation system.
+* **My Role:** Data Science & Big Data Engineer (Team of 4)
+* **My Contributions:** Built the core big data layer with **Apache Spark 3.5** and **Hadoop HDFS**, orchestrated workflows with Airflow, and helped create recommendation models using LightGBM + XGBoost.
+* **Technical Stack:** Apache Spark, Hadoop, LightGBM, XGBoost, Airflow, ClickHouse.
+* **Results:** Automated pipelines that efficiently serve 500k+ patient profiles.
 
 ---
 
