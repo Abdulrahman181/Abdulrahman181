@@ -1,69 +1,139 @@
-# 👨‍💻 Abdulrahman Ahmed 
-### **Data Scientist & AI Engineer**[span_0](start_span)[span_0](end_span)
-
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-rahman-ahmed-711565255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:abdulrahmannassar202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
-
----
-
-## 🚀 About Me
-Experienced **Data Scientist & AI Engineer** specializing in designing, building, and deploying production-grade Machine Learning and Deep Learning systems across **Computer Vision, Natural Language Processing (NLP), Generative AI (RAG), and Predictive Analytics**[span_1](start_span)[span_1](end_span). I bridge the gap between complex research and business value by implementing clean, scalable, and optimized pipelines[span_2](start_span)[span_2](end_span).
-
-* 🌍 Based in Benha, Egypt[span_3](start_span)[span_3](end_span)
-* 🎓 B.Sc. in Computer Science & Artificial Intelligence from Benha University (Graduation Project Grade: Excellent A+)[span_4](start_span)[span_4](end_span)
-* ⚡ Core Focus: Building high-impact AI systems that solve real-world industry problems[span_5](start_span)[span_5](end_span).
-
----
-
-## 🛠️ Technical Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4169E1?style=flat-square&logo=databricks&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)[span_6](start_span)[span_6](end_span)
-
-### 🧠 Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-111111?style=flat-square) ![CatBoost](https://img.shields.io/badge/CatBoost-6E40C9?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)[span_7](start_span)[span_7](end_span)
-
-### 🤖 Generative AI & NLP
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![VectorDB / FAISS](https://img.shields.io/badge/FAISS-00A699?style=flat-square)[span_8](start_span)[span_8](end_span)
-
-### 📊 Big Data & Engineering
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE1?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat-square&logo=ClickHouse&logoColor=black)[span_9](start_span)[span_9](end_span)
-
-### 📦 MLOps & Cloud
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Azure ML](https://img.shields.io/badge/Azure%20ML-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)[span_10](start_span)[span_10](end_span)
+<!-- HEADER SECTION -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td width="75%" valign="top">
+      <h1>⚡ Abdulrahman Ahmed</h1>
+      <h3>AI Systems Engineer | Applied Data Scientist</h3>
+      <p><i>Architecting scalable ML pipelines, real-time computer vision engines, and production-grade data workloads that deliver direct business ROI.</i></p>
+      <p>📍 Benha, Egypt | 💻 Remote & Cloud Ecosystems</p>
+    </td>
+    <td width="25%" align="right" valign="top">
+      <a href="https://linkedin.com/in/abdul-rahman-ahmed-711565255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
+      <a href="mailto:abdulrahmannassar202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌟 Featured Production-Grade Projects
+<!-- 🔥 ENTERPRISE IMPACT DASHBOARD -->
+## 📊 Engineered Systems Impact
+*Measured performance and business value delivered through automated architectures and model optimization.*
 
-### 🌾 1. Napta — Smart Agricultural AI *(Graduation Project - Grade A+)*
-* **Overview:** A cross-platform AI engine optimized for real-time localized crop disease, pest, and weed detection[span_11](start_span)[span_11](end_span).
-* **Tech Stack:** YOLOv8, FastAPI, Docker, GitHub Actions, OpenCV[span_12](start_span)[span_12](end_span).
-* **Impact:** Achieved a **95% mAP accuracy** across 12 crop disease classes with a specialized pipeline driving a low latency of **<50ms** on mobile devices[span_13](start_span)[span_13](end_span).
-
-### 💳 2. High-Precision Financial Fraud Detection System
-* **Overview:** Built an advanced enterprise-grade machine learning classifier deployed to identify fraudulent behavior in highly imbalanced financial transaction data[span_14](start_span)[span_14](end_span).
-* **Tech Stack:** XGBoost, CatBoost, LightGBM, SMOTE, SHAP, FastAPI, Azure ML[span_15](start_span)[span_15](end_span).
-* **Impact:** Handled a massive dataset of 6.3M transactions, achieving an exceptional **99.2% AUC-ROC score**[span_16](start_span)[span_16](end_span). Integrated SHAP explainable AI for transparent, audit-ready risk analysis[span_17](start_span)[span_17](end_span).
-
-### 🏢 3. Enterprise Document Intelligence System (RAG & GenAI)
-* **Overview:** Developed an intelligent multi-format document querying platform enabling semantic corporate data interaction via custom AI agents[span_18](start_span)[span_18](end_span).
-* **Tech Stack:** Langchain, OpenAI Agents SDK, FAISS Vector DB, Streamlit, Docker[span_19](start_span)[span_19](end_span).
-* **Impact:** Engineered robust context retrieval pipelines that **reduced LLM hallucinations by 40%** while executing multi-document queries at consistent sub-5s response times[span_20](start_span)[span_20](end_span).
-
-### 🏥 4. Distributed Healthcare Recommendation Engine
-* **Overview:** A large-scale recommendation system mapping clinical solutions across half a million synthetic patient records over 15 distinct medical specialties[span_21](start_span)[span_21](end_span).
-* **Tech Stack:** Apache Spark 3.5, Hadoop HDFS, ClickHouse, Apache Airflow, MLflow, Docker[span_22](start_span)[span_22](end_span).
-* **Impact:** Combined collaborative filtering with a hybrid **LightGBM + XGBoost** framework, improving treatment recommendation relevance by **18%**[span_23](start_span)[span_23](end_span).
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>&lt; 50ms</b></font>
+      <p><b>Real-Time Latency</b><br><small>YOLOv8 Inference Pipeline</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>99.2%</b></font>
+      <p><b>AUC-ROC Accuracy</b><br><small>Fraud Classification System</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>30%</b></font>
+      <p><b>Faster Release Cycles</b><br><small>FastAPI & Docker Pipelines</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#2ea44f"><b>40%</b></font>
+      <p><b>Hallucination Reduction</b><br><small>Enterprise RAG Contexts</small></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>8 hrs/wk</b></font>
+      <p><b>Manual Labor Eliminated</b><br><small>Automated Data Workloads</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>+18%</b></font>
+      <p><b>Prediction Accuracy Boost</b><br><small>Hyperparameter Optimization</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>~60%</b></font>
+      <p><b>Environment Failure Drop</b><br><small>Dockerized Implementations</small></p>
+    </td>
+    <td width="25%" align="center" bgcolor="#0d1117">
+      <br>
+      <font size="6" color="#58a6ff"><b>100+</b></font>
+      <p><b>Engineers Trained</b><br><small>AI & Machine Learning Cohorts</small></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Professional Experience Summary
-* **Data Science Lead Trainer** @ AXIS Tech Community *(May 2025 – Present)* — Designing and delivering data science and ML curriculum to 100+ production-focused learners[span_24](start_span)[span_24](end_span).
-* **Data Science Intern** @ Pure Soft *(Dec 2025 – Feb 2026)* — Optimized XGBoost models boosting accuracy by 18%; containerized REST APIs via FastAPI and Docker[span_25](start_span)[span_25](end_span).
-* **AI Intern** @ Aitronix *(Sep 2025 – Nov 2025)* — Dropped model misclassification rates to under 7% and centralized AI model lifecycles using Azure ML and Blob Storage[span_26](start_span)[span_26](end_span).
+## 🛠️ Technical Expertise & Core Competencies
+
+> **Machine Learning & Statistical Engineering**
+> * `Core Paradigms:` Ensemble Learning, Predictive Modeling, Advanced Feature Engineering, Statistical Analytics, Class Imbalance Handling (SMOTE), Explainable AI (SHAP).
+> * `Toolkits & Libraries:` Scikit-learn, XGBoost, CatBoost, LightGBM, Pandas, NumPy.
+
+> **Deep Learning & Computer Vision (Edge AI)**
+> * `Core Paradigms:` Object Detection, Image Classification, Semantic Segmentation, Transfer Learning.
+> * `Toolkits & Libraries:` PyTorch, TensorFlow, Keras, YOLOv8, OpenCV.
+
+> **Natural Language Processing & Information Retrieval**
+> * `Core Paradigms:` Retrieval-Augmented Generation (RAG), Semantic Search pipelines, Sentiment Analysis, Agentic Workflows.
+> * `Toolkits & Libraries:` BERT, Hugging Face, FAISS Vector Storage, OpenAI Automation SDKs, LangChain.
+
+> **Data Operations & MLOps Infrastructure**
+> * `Data Infrastructure:` Apache Spark 3.5, Hadoop HDFS, Workflow Orchestration (Apache Airflow), ClickHouse Analytical DB.
+> * `Deployment & CI/CD:` Docker, FastAPI, GitHub Actions, Azure ML Environment Lifecycle, MLflow, Streamlit, Flask.
 
 ---
-<p align="center">📊 <i>"Turning raw enterprise data into highly reliable, production-ready AI solutions."</i></p>
+
+## 🏆 Featured Production Workloads
+
+### 🌾 Napta — Smart Agricultural AI Ecosystem *(Graduation Project - Grade: Excellent A+)*
+* **Problem Statement:** Developing high-accuracy, resource-efficient edge AI deployment capable of multi-class crop disease detection under volatile network conditions.
+* **System Architecture:** Transferred learning on custom **YOLOv8** architectures to identify 12 distinct crop disease profiles with **95% mAP accuracy**. Designed a highly optimized **FastAPI** inference loop wrapped tightly inside **Docker** containers to enforce platform-independent scaling.
+* **Engineering Impact:** Compressed client-side inference to achieve **sub-50ms real-time latency** and deployed automated model retraining loops via **GitHub Actions CI/CD**.
+
+### 💳 High-Precision Financial Fraud Detection Suite
+* **Problem Statement:** Constructing an anomaly detection engine over heavily skewed transaction flows (6.3M records) without generating prohibitive false-positive cascades.
+* **System Architecture:** Engineered a high-precision gradient-boosted ensemble merging **XGBoost, CatBoost, and LightGBM**. Resolved deep class gaps via **SMOTE** oversampling, reducing baseline false alarms by 25%. Native integration of **SHAP** explainability maps ensures compliance-ready audit trails for high-risk flags.
+* **Engineering Impact:** Secured a definitive **99.2% AUC-ROC score**, serving the infrastructure as a unified REST API managed end-to-end on **Azure ML**.
+
+### 🏢 Enterprise Document Intelligence Pipeline
+* **Problem Statement:** Engineering an enterprise-ready knowledge retrieval core capable of querying dense, multi-format corporate documentation without generating hallucinations.
+* **System Architecture:** Built a robust **RAG** infrastructure using **FAISS vector database** embeddings for semantic contextual lookups. Integrated **OpenAI Agents SDK** for dynamic tool-calling and orchestration alongside **LangChain**.
+* **Engineering Impact:** Secured a **40% reduction in LLM hallucinations** while safely maintaining consistent sub-5 second response latency across concurrent sessions hosted in a **Dockerized Streamlit** environment.
+
+### 🏥 Scalable Healthcare Recommendation Engine
+* **Problem Statement:** Ingesting, transforming, and modeling distributed medical histories (500k+ records) across 15 distinct specialties to generate highly tailored clinical tracks.
+* **System Architecture:** Architected distributed content-based and collaborative filtering pipelines using **Apache Spark 3.5** natively running on top of **Hadoop HDFS** storage nodes. Built a hybrid LightGBM/XGBoost layer that elevated baseline recommendation relevance scores by 18%.
+* **Engineering Impact:** Orchestrated full data dependency jobs via **Apache Airflow DAGs** utilizing **ClickHouse** as the hyper-fast backend analytical store.
+
+---
+
+## 💼 Professional Experience
+
+* **Data Science Lead Trainer** | AXIS Tech Community *(May 2025 – Present)*
+  * Architected and delivered 2 complete ML/Data Science cohorts to 100+ university learners covering advanced regression, classification, SQL, and evaluation metrics.
+* **Data Science Intern** | Pure Soft *(Dec 2025 – Feb 2026)*
+  * Built end-to-end EDA and feature engineering pipelines on 100k+ records. Optimized XGBoost models to achieve a +18% prediction accuracy boost and deployed Dockerized FastAPI end-points.
+* **AI Intern** | Aitronix *(Sep 2025 – Nov 2025)*
+  * Centralized model lifecycles on Azure ML and versioned artifacts securely via Azure Blob Storage, dropping environment failure rates by ~60%.
+
+---
+
+## 🎓 Education
+* **B.Sc. in Computer Science & Artificial Intelligence** | Benha University *(Graduation: July 2025)*
+  * *Cumulative Grade:* Good | *Graduation Project (Napta Smart Agricultural AI):* Excellent (A+)
+
+---
+
+## 📊 System Statistics
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman181&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="100%"></td>
+    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman181&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%"></td>
+  </tr>
+</table>
