@@ -18,7 +18,7 @@
 
 <!-- 🔥 ENTERPRISE IMPACT DASHBOARD -->
 ## 📊 Analytics & Systems Impact Dashboard
-*Verified business metrics and performance benchmarks achieved across predictive analytics, computer vision, and data workflows.*
+*Verified business metrics and performance benchmarks achieved across predictive analytics, computer vision, and data workloads.*
 
 <table width="100%">
   <tr>
@@ -69,24 +69,24 @@
 
 ---
 
-<!-- 🛠️ TECHNICAL EXPERTISE (CLEAN WEB STYLE, NO MARGIN BUGS) -->
+<!-- 🛠️ TECHNICAL EXPERTISE -->
 ## 🛠️ Expertise & Technical Proficiencies
 
+### 👁️ Deep Learning & Computer Vision (Edge AI Core)
+* **Core Paradigms:** Real-time Object Detection, Multi-class Image Classification, Semantic Segmentation, Transfer Learning Pipelines, Model Compression & Optimization, Edge AI Inference Tuning, Custom Feature Extraction, Video Stream Processing.
+* **Libraries & Ecosystem:** PyTorch, TensorFlow, Keras, YOLOv8, OpenCV, Torchvision, Albumentations.
+
+### 💬 Natural Language Processing & Generative AI
+* **Core Paradigms:** Retrieval-Augmented Generation (RAG), Semantic Search Systems, Contextual Text Chunking Strategies, Dense Vector Embeddings, Tokenization Pipelines, Sentiment Analysis, Information Extraction, Intelligent Agentic Workflows.
+* **Libraries & Ecosystem:** BERT, SentenceTransformers, FAISS (Vector Storage Engine), OpenAI Automation SDKs, Hugging Face Transformers.
+
 ### 📉 Data Science & Advanced Analytics
-* **Core Paradigms:** Predictive Modeling, Exploratory Data Analysis (EDA), Statistical Inference, Feature Engineering, Class Imbalance Resolution (SMOTE), Explainable AI (SHAP Framework).
+* **Core Paradigms:** Predictive Modeling, Exploratory Data Analysis (EDA), Statistical Inference, Hypothesis Testing, Feature Engineering Pipelines, Class Imbalance Resolution (SMOTE), Explainable AI (SHAP Framework).
 * **Libraries & Ecosystem:** Pandas, NumPy, Scikit-learn, SciPy, Matplotlib, Seaborn.
 
 ### 🧠 Machine Learning & Advanced Ensembles
-* **Core Paradigms:** Supervised/Unsupervised Learning, Gradient Boosting, Model Optimization, Performance Benchmarking.
+* **Core Paradigms:** Supervised/Unsupervised Learning architectures, Advanced Gradient Boosting, Hyperparameter Optimization, Cross-Validation Strategies, Model Performance Benchmarking.
 * **Libraries & Ecosystem:** XGBoost, CatBoost, LightGBM.
-
-### 👁️ Deep Learning & Computer Vision (Edge AI)
-* **Core Paradigms:** Object Detection, Image Classification, Semantic Segmentation, Transfer Learning, Model Compression.
-* **Libraries & Ecosystem:** PyTorch, TensorFlow, Keras, YOLOv8, OpenCV.
-
-### 💬 Natural Language Processing & Generative AI
-* **Core Paradigms:** Retrieval-Augmented Generation (RAG), Semantic Search Systems, Contextual Text Chunking, Sentiment Analysis, Intelligent Agentic Workflows.
-* **Libraries & Ecosystem:** BERT, SentenceTransformers, FAISS (Vector Storage Engine), OpenAI Automation SDKs.
 
 ### ⚙️ Big Data & MLOps Infrastructure
 * **Data Infrastructure:** Distributed Computing (Apache Spark 3.5), Hadoop HDFS, Relational Databases (PostgreSQL, MySQL), Analytical DBs (ClickHouse).
@@ -110,8 +110,8 @@
 
 ### 🏢 Enterprise Document Intelligence Pipeline
 * **Domain:** Generative AI & Knowledge Retrieval Systems (RAG)
-* **Problem Statement:** Engineering an enterprise-ready knowledge retrieval core capable of querying dense, multi-format corporate documentation without generating hallucinations.
-* **System Architecture:** Built a clean, lightweight **RAG** infrastructure using **SentenceTransformers** for semantic embeddings and **FAISS vector database** for rapid contextual lookups. Integrated **OpenAI Agents SDK** for dynamic tool-calling, autonomous decision orchestration, and multi-document parsing.
+* **Problem Statement:** Engineering an enterprise-ready knowledge retrieval core capable of querying dense, multi-format corporate documentation without generating hallucinations or relying on bloated third-party framework orchestrators.
+* **System Architecture:** Built a clean, lightweight **RAG** infrastructure using **SentenceTransformers** for native semantic embeddings and **FAISS vector database** for rapid contextual lookups. Integrated **OpenAI Agents SDK** for dynamic tool-calling, autonomous decision orchestration, and multi-document parsing.
 * **Engineering Impact:** Secured a **40% reduction in LLM hallucinations** while safely maintaining consistent sub-5 second response latency across concurrent sessions hosted in a **Dockerized Streamlit** environment.
 
 ### 🏥 Scalable Healthcare Recommendation Engine
@@ -149,7 +149,8 @@
 ---
 
 ## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman181&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Abdulrahman's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman181&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Abdulrahman's Top Languages" width="49%" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman181&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman181&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
 </p>
