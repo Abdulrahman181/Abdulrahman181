@@ -134,14 +134,18 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🛠️ Core Technologies
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrahman181&theme=tokyonight)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,fastapi,git,github,postgres,mysql,linux,vscode" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdulrahman181&theme=tokyonight)
+---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdulrahman181&theme=tokyonight)
+## 🚀 Current Focus
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdulrahman181&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman181&theme=tokyonight)
+- 🤖 Building Production-ready AI Applications
+- 📊 Machine Learning & Data Science
+- 🔍 Computer Vision & NLP
+- ⚡ MLOps & Deployment
+- 🐳 Docker & FastAPI
