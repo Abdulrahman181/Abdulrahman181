@@ -1,46 +1,44 @@
 <!-- HEADER SECTION -->
-<table width="100%" cellpadding="10" cellspacing="0" border="0">
-  <tr>
-    <td width="75%" valign="top">
-      <h1>⚡ Abdulrahman Ahmed</h1>
-      <h3>Data Scientist | AI Systems Engineer | Data Analyst</h3>
-      <p><i>Bridging the gap between statistical data science, advanced analytics, and production-grade AI architectures. Focused on constructing defensible machine learning pipelines, distributed big data workflows, and optimized inference engines.</i></p>
-      <p>📍 Benha, Egypt | 💻 Available for Remote & Global Opportunities</p>
-    </td>
-    <td width="25%" align="right" valign="top">
-      <a href="https://linkedin.com/in/abdul-rahman-ahmed-711565255"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><br>
-      <a href="mailto:abdulrahmannassar202@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+# ⚡ Abdulrahman Ahmed
+
+### **Data Science | Machine Learning | AI Engineering**
+
+*Building robust data pipelines, refining intelligent predictive systems, and bridging the gap between advanced analytics and production deployment.*
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/abdul-rahman-ahmed-711565255) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:abdulrahmannassar202@gmail.com)
+
+📍 Benha, Egypt | 💻 Available for Remote & Global Opportunities
 
 ---
+</div>
 
-<!-- 🔥 CORE METRICS DASHBOARD -->
+<!-- 🔥 CORE PERFORMANCE DASHBOARD -->
 ## 📊 Technical Performance & Impact Dashboard
-*Verified baseline metrics, model evaluations, and data processing scales achieved across core engineering workloads.*
+*Key achievements and data processing scales verified across engineering and deployment workloads.*
 
 <table width="100%" cellpadding="10" cellspacing="0" border="0">
   <tr bgcolor="#0d1117">
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>99.2%</b></font>
-      <p><b>AUC-ROC Score</b><br><small>Fraud Ensemble Model</small></p>
+      <font size="5" color="#2ea44f"><b>High Precision</b></font>
+      <p><b>Model Evaluation</b><br><small>Fraud Ensemble Model</small></p>
     </td>
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>95.0%</b></font>
-      <p><b>mAP Score</b><br><small>YOLOv8 CV Model</small></p>
+      <font size="5" color="#2ea44f"><b>Optimized mAP</b></font>
+      <p><b>CV Alignment</b><br><small>YOLOv8 Object Detection</small></p>
     </td>
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#2ea44f"><b>&lt; 50ms</b></font>
+      <font size="5" color="#2ea44f"><b>Highly Responsive</b></font>
       <p><b>Inference Latency</b><br><small>Edge Pipeline Simulation</small></p>
     </td>
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#58a6ff"><b>6.3M+</b></font>
-      <p><b>Records Processed</b><br><small>Financial Analytics Data</small></p>
+      <font size="5" color="#58a6ff"><b>Multi-Million</b></font>
+      <p><b>Records Handled</b><br><small>Data Quality & Analytics</small></p>
     </td>
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
-      <font size="5" color="#58a6ff"><b>100+</b></font>
-      <p><b>Engineers Trained</b><br><small>Technical Mentorship</small></p>
+      <font size="5" color="#58a6ff"><b>~100</b></font>
+      <p><b>Developers Trained</b><br><small>Technical Mentorship</small></p>
     </td>
   </tr>
 </table>
@@ -72,31 +70,7 @@
 
 ---
 
-## 🏆 Featured Production Workloads
-
-### 🌾 Napta — Smart Agricultural AI Ecosystem
-* **Problem:** Localized, high-accuracy multi-class crop disease detection optimized for resource-constrained edge devices under unstable network environments.
-* **Architecture:** Containerized, lightweight REST API exposing an edge-optimized computer vision model for low-latency inference.
-* **My Role:** AI Engineer (Team Size: 6)
-* **My Contributions:** Owned the end-to-end AI module. Engineered automated data preprocessing and augmentation pipelines. Trained and fine-tuned custom **YOLOv8** architectures across 12 distinct crop disease profiles, and optimized edge client inference paths.
-* **Technical Stack:** PyTorch, YOLOv8, OpenCV, FastAPI, Docker, GitHub Actions.
-* **Results:** Secured a **95.0% mAP score** with **sub-50ms inference latency** in edge simulations. Project awarded an overall grade of **Excellent (A+)**.
-
-### 💳 High-Precision Financial Fraud Detection Suite
-* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing restrictive false-positive cascades.
-* **Architecture:** Modular predictive pipeline integrating statistical preprocessing, a gradient-boosted ensemble layer, and post-inference model explainability.
-* **My Role:** Solo Developer
-* **My Contributions:** Executed comprehensive EDA on **6.3M+ records**. Handled extreme class imbalance using **SMOTE** oversampling. Built and cross-validated a high-precision tree-based ensemble (**XGBoost, CatBoost, LightGBM**). Integrated a **SHAP** layer for localized feature attribution and audit transparency.
-* **Technical Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, SHAP, Azure ML.
-* **Results:** Achieved a stable **99.2% AUC-ROC score** while significantly reducing false-positive rates across test splits.
-
-### 🏢 Enterprise Document Intelligence Pipeline
-* **Problem:** Eliminating retrieval hallucinations and processing bottlenecks across dense, multi-format corporate knowledge bases without third-party framework orchestrators.
-* **Architecture:** Production-grade, lightweight RAG infrastructure combining low-dimensional dense embedding indexing with deterministic tool-calling operational logic.
-* **My Role:** Solo Developer
-* **My Contributions:** Designed custom tokenization boundaries and text-chunking sliding window strategies. Configured dense vector spaces via **SentenceTransformers** and deployed a local **FAISS** lookup index. Programmed native orchestration state logic via the **OpenAI SDK** to enforce strict tool-calling loops and multi-source context matching.
-* **Technical Stack:** Python, SentenceTransformers, FAISS, OpenAI SDK, Streamlit, Docker.
-* **Results:** Delivered a lightweight, containerized corporate knowledge assistant featuring deterministic context control and minimal latency.
+## 🏆 Featured Projects & Workloads
 
 ### 🏥 Scalable Healthcare Recommendation Engine
 * **Problem:** Scaling distributed data ingestion, feature extraction, and analytical modeling across large volumes of heterogeneous clinical histories.
@@ -104,16 +78,40 @@
 * **My Role:** Data Science & Big Data Engineer (Team Size: 4)
 * **My Contributions:** Architected the distributed data ingestion layer using **Apache Spark 3.5**. Configured native pipeline storage clusters atop **Hadoop HDFS**. Built and optimized hybrid recommendation layers utilizing LightGBM and XGBoost models.
 * **Technical Stack:** Apache Spark 3.5, Hadoop HDFS, LightGBM, XGBoost, Apache Airflow, ClickHouse.
-* **Results:** Automated complex workflows via **Apache Airflow DAGs**, enabling efficient multi-specialty clinical recommendation generation over 500k+ medical profiles.
+* **Results:** Automated complex workflows via **Apache Airflow DAGs**, enabling efficient multi-specialty clinical recommendation generation across 500k+ anonymized medical profiles.
+
+### 🏢 Enterprise Document Intelligence Pipeline
+* **Problem:** Eliminating retrieval hallucinations and processing bottlenecks across dense, multi-format corporate knowledge bases without third-party framework orchestrators.
+* **Architecture:** Lightweight RAG infrastructure combining low-dimensional dense embedding indexing with deterministic tool-calling operational logic.
+* **My Role:** Solo Developer
+* **My Contributions:** Designed custom tokenization boundaries and text-chunking sliding window strategies. Configured dense vector spaces via **SentenceTransformers** and deployed a local **FAISS** lookup index. Programmed native orchestration state logic via the **OpenAI SDK** to enforce strict tool-calling loops and multi-source context matching.
+* **Technical Stack:** Python, SentenceTransformers, FAISS, OpenAI SDK, Streamlit, Docker.
+* **Results:** Delivered a lightweight, containerized corporate knowledge assistant featuring smooth context control and optimized retrieval latency.
+
+### 🌾 Napta — Smart Agricultural AI Ecosystem
+* **Problem:** Localized, high-accuracy multi-class crop disease detection optimized for resource-constrained edge devices under unstable network environments.
+* **Architecture:** Containerized, lightweight REST API exposing an edge-optimized computer vision model for efficient inference.
+* **My Role:** AI Engineer (Team Size: 6)
+* **My Contributions:** Owned the end-to-end AI module. Engineered automated data preprocessing and augmentation pipelines. Trained and fine-tuned custom **YOLOv8** architectures across 12 distinct crop disease profiles, and optimized edge client inference paths.
+* **Technical Stack:** PyTorch, YOLOv8, OpenCV, FastAPI, Docker, GitHub Actions.
+* **Results:** Achieved excellent model validation performance with highly responsive inference feedback in edge simulations. Project awarded an overall grade of **Excellent (A+)**.
+
+### 💳 High-Precision Financial Fraud Detection Suite
+* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing restrictive false-positive cascades.
+* **Architecture:** Modular predictive pipeline integrating statistical preprocessing, a gradient-boosted ensemble layer, and post-inference model explainability.
+* **My Role:** Solo Developer
+* **My Contributions:** Executed comprehensive EDA on high-volume transactional logs, managing severe data distribution and quality anomalies across multi-million records. Handled extreme class imbalance using **SMOTE** oversampling. Built and cross-validated a high-precision tree-based ensemble (**XGBoost, CatBoost, LightGBM**). Integrated a **SHAP** layer for localized feature attribution and audit transparency.
+* **Technical Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, SHAP, Azure ML.
+* **Results:** Achieved a highly stable and balanced predictive model, significantly reducing false-positive rates across validation splits.
 
 ---
 
 ## 💼 Professional Experience
 
 * **Data Science Lead Trainer** | AXIS Tech Community *(May 2025 – Present)*
-  * Architected and delivered structured ML and Data Science curricula to 100+ university learners, focusing on statistical regression, classical classification, SQL database mechanics, and validation metrics.
+  * Architected and delivered structured ML and Data Science curricula to approximately 100 university learners, focusing on statistical regression, classical classification, SQL database mechanics, and validation metrics.
 * **Data Science Intern** | Pure Soft *(Dec 2025 – Feb 2026)*
-  * Built scalable EDA and feature engineering jobs on 100k+ customer records. Fine-tuned tree-based models to enhance baseline predictive metrics and deployed endpoints via containerized FastAPI blocks.
+  * Built scalable EDA and feature engineering jobs on high-volume customer records. Fine-tuned tree-based models to enhance baseline predictive metrics and deployed endpoints via containerized FastAPI blocks.
 * **AI Intern** | Aitronix *(Sep 2025 – Nov 2025)*
   * Maintained system reproducibility by centralizing model lifecycles on Azure ML and tracking data artifacts securely using Azure Blob Storage pipelines.
 
