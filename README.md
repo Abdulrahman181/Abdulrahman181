@@ -5,7 +5,7 @@
 
 ### **Data Science | Machine Learning Engineering | AI Engineering**
 
-*Bridging the gap between statistical data science, advanced analytics, and production-grade AI architectures through structured machine learning pipelines and optimized inference workloads.*
+*Bridging the gap between statistical data science, advanced analytics, and end-to-end machine learning systems through structured machine learning pipelines and optimized inference workloads.*
 
 📍 Benha, Egypt | 💻 Available for Remote & Global Opportunities
 
@@ -40,7 +40,7 @@
     </td>
     <td width="20%" align="center" style="border: 1px solid #30363d; border-radius: 6px;">
       <font size="5" color="#58a6ff"><b>100+</b></font>
-      <p><b>Engineers Trained</b><br><small>Technical Mentorship</small></p>
+      <p><b>Learners Trained</b><br><small>Technical Mentorship</small></p>
     </td>
   </tr>
 </table>
@@ -82,16 +82,16 @@
 * **Technical Stack:** PyTorch, YOLOv8, OpenCV, FastAPI, Docker, GitHub Actions.
 * **Results:** Secured a **95.0% mAP score** with **sub-50ms inference latency** in edge client simulations. Project awarded an overall grade of **Excellent (A+)**.
 
-### 🏢 Document Intelligence Pipeline
+### 🏢 AI Document Intelligence Pipeline
 * **Problem:** Improving retrieval accuracy across multi-format document collections without third-party framework orchestrators.
 * **Architecture:** Production-grade, lightweight RAG infrastructure combining low-dimensional dense embedding indexing with deterministic tool-calling operational logic.
 * **My Role:** Solo Developer
-* **My Contributions:** Designed custom tokenization boundaries and text-chunking sliding window strategies to handle dense knowledge bases. Configured dense vector spaces via **SentenceTransformers** and deployed a local **FAISS** lookup index. Programmed a **custom retrieval workflow** via the **OpenAI SDK** to enforce strict tool-calling loops and multi-source context matching.
+* **My Contributions:** Designed document chunking and sliding-window segmentation strategies to handle dense knowledge bases. Configured dense vector spaces via **SentenceTransformers** and deployed a local **FAISS** lookup index. Built a custom retrieval workflow using the OpenAI SDK with structured tool-calling to enforce strict multi-source context matching.
 * **Technical Stack:** Python, SentenceTransformers, FAISS, OpenAI SDK, Streamlit, Docker.
 * **Results:** Delivered a lightweight, containerized corporate knowledge assistant featuring deterministic context control and minimal latency.
 
 ### 💳 Financial Fraud Detection Suite
-* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing restrictive false-positive cascades.
+* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing false positives in highly imbalanced transaction data.
 * **Architecture:** Modular predictive pipeline integrating statistical preprocessing, a gradient-boosted ensemble layer, and post-inference model explainability.
 * **My Role:** Solo Developer
 * **My Contributions:** Executed comprehensive EDA and data cleaning on **6.3M+ records**. Handled extreme class imbalance using **SMOTE** oversampling to minimize false positives. Built and cross-validated a tree-based ensemble using **XGBoost, CatBoost, and LightGBM**. Integrated a **SHAP** layer for localized feature attribution and audit transparency.
@@ -137,8 +137,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulrahman181&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrahman181&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Abdulrahman181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    width="48%"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman181&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="45%"
+    alt="Top Languages"
+  />
 </p>
 
