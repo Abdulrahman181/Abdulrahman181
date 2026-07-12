@@ -11,7 +11,15 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rahman-ahmed-711565255) &nbsp;&nbsp;&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmannassar202@gmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/abdul-rahman-ahmed-711565255) &nbsp;&nbsp;&nbsp;&nbsp; [
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:abdulrahmannassar202@gmail.com)
 
 ---
 </div>
@@ -97,66 +105,6 @@
 * **My Contributions:** Executed comprehensive EDA and data cleaning on **6.3M+ records**. Handled extreme class imbalance using majority-class downsampling combined with `scale_pos_weight` / `auto_class_weights` at the model level. Built and cross-validated a weighted tree-based ensemble (XGBoost 30% / LightGBM 30% / CatBoost 40%). Analyzed feature attribution using native XGBoost, LightGBM, and CatBoost importance methods, and exposed the system via a Gradio inference demo.
 * **Technical Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, Gradio.
 * **Results:** Achieved a **95.2% Test ROC-AUC** (96.6% Train, 1.45% gap — good generalization). At the best-balance decision threshold: **60.8% precision / 36.4% recall**, with tunable aggressive/conservative modes trading off false positives against missed fraud cases.
-
-### 🏥 Scalable Healthcare Recommendation Engine
-* **Problem:** Scaling distributed data ingestion, feature extraction, and analytical modeling across large volumes of heterogeneous clinical histories.
-* **Architecture:** Distributed big data processing pipeline feeding a decoupled, hybrid collaborative and content-based recommendation matrix.
-* **My Role:** Data Science & Big Data Engineer (Team Size: 4)
-* **My Contributions:** Architected the distributed data ingestion layer using **Apache Spark 3.5**. Implemented distributed storage using **Hadoop HDFS**. Built and optimized hybrid recommendation layers utilizing LightGBM and XGBoost models.
-* **Technical Stack:** Apache Spark 3.5, Hadoop HDFS, LightGBM, XGBoost, Apache Airflow, ClickHouse.
-* **Results:** Automated complex workflows via **Apache Airflow DAGs**, enabling efficient multi-specialty clinical recommendation generation over 500k+ medical profiles.
-
----
-
-## 💼 Professional Experience
-
-* **Data Science Lead Trainer** | AXIS Tech Community *(May 2025 – Present)*
-  * Designed and delivered structured Machine Learning and Data Science curricula to **100+ university students** (undergraduates and tech-aspirants aged 18-30), covering statistical regression, classical classification, SQL database mechanics, and validation metrics.
-* **Data Science Intern** | Pure Soft *(Dec 2025 – Feb 2026)*
-  * Built scalable EDA and feature engineering jobs on 100k+ customer records. Fine-tuned tree-based models to enhance baseline predictive metrics and deployed endpoints via containerized FastAPI blocks.
-* **AI Intern** | Aitronix *(Sep 2025 – Nov 2025)*
-  * Maintained system reproducibility by centralizing model lifecycles on Azure ML and tracking data artifacts securely using Azure Blob Storage pipelines.
-
----
-
-## 🎓 Education & Certifications
-
-### 🏛️ Academic Foundation
-* **B.Sc. in Computer Science & Artificial Intelligence** | Benha University *(Graduation: July 2025)*
-  * **Cumulative Grade:** Good
-  * **Graduation Project:** *Napta Smart Agricultural AI Ecosystem* — **Grade: Excellent (A+)**
-
-### 📜 Professional Training Tracks
-* **Data Science & Advanced Analytics Track** — Core focus on statistical modeling, validation design, and predictive workflows.
-* **Machine Learning Engineering Specialization** — Focused engineering around ensemble tuning, deployment architectures, and automated feature pipeline construction.
-* **Deep Learning & Computer Vision Specialization** — Deep neural networks, real-time object detection paradigms, and inference runtime optimization.
-* **Big Data Engineering Frameworks** — Implementing distributed data environments using Apache Spark, Hadoop storage management, and Airflow orchestration.
-
----
-
-## 🛠️ Core Technologies
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,fastapi,git,github,postgres,mysql,linux,vscode" />
-</p>
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Building Production-ready AI Applications
-- 📊 Machine Learning & Data Science
-- 🔍 Computer Vision & NLP
-- ⚡ MLOps & Deployment
-- 🐳 Docker & FastAPI
-
-### 💳 Financial Fraud Detection Suite
-* **Problem:** Implementing a high-volume anomaly detection pipeline over heavily skewed transactional flows while minimizing false positives in highly imbalanced transaction data.
-* **Architecture:** Modular predictive pipeline integrating statistical preprocessing, a gradient-boosted ensemble layer, and post-inference model explainability.
-* **My Role:** Solo Developer
-* **My Contributions:** Executed comprehensive EDA and data cleaning on **6.3M+ records**. Handled extreme class imbalance using **SMOTE** oversampling to minimize false positives. Built and cross-validated a tree-based ensemble using **XGBoost, CatBoost, and LightGBM**. Integrated a **SHAP** layer for localized feature attribution and audit transparency.
-* **Technical Stack:** Python, Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, SHAP, Azure ML.
-* **Results:** Achieved a 99.2% AUC-ROC score with strong model interpretability using SHAP.
 
 ### 🏥 Scalable Healthcare Recommendation Engine
 * **Problem:** Scaling distributed data ingestion, feature extraction, and analytical modeling across large volumes of heterogeneous clinical histories.
