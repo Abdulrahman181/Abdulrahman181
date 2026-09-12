@@ -20,9 +20,9 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 
 - **Model Development & Evaluation:** classification, ranking, feature engineering, imbalanced learning, cross-validation, and rigorous model evaluation.
 - **Computer Vision:** image classification, object detection, semantic segmentation, transfer learning, image preprocessing, and inference workflows.
-- **NLP, Generative AI & AI Agents:** embeddings, semantic search, retrieval-augmented generation, document question answering, multi-agent workflows, and local language-model applications.
+- **NLP, Generative AI & Agents:** embeddings, semantic retrieval, document question answering, retrieval-augmented generation, local LLM applications, agentic workflows, and tool-assisted AI workflows.
 - **Data & ML Workflows:** data preparation, exploratory analysis, SQL, distributed processing, experiment tracking, and workflow automation.
-- **AI Application Delivery:** model serving, API integration, containerization, reproducible workflows, and connecting trained models to usable applications.
+- **AI Application Delivery:** model serving, API integration, containerization, reproducible workflows, and connecting AI models and retrieval systems to usable applications.
 
 ## Selected Evidence
 
