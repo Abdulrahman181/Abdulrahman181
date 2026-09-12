@@ -2,9 +2,9 @@
 
 # Abdulrahman Ahmed
 
-### AI Engineer · Machine Learning Engineer
+### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I design and build applied AI systems that connect **data engineering, machine learning, model evaluation, and deployment**. My focus is turning experimental models into understandable, testable, and usable software—with clear assumptions and metrics that can be defended in a technical interview.
+I build applied AI and machine-learning systems across the lifecycle—from data preparation and model development to evaluation and usable software. My work spans computer vision, NLP and retrieval-augmented generation, ML pipelines, and practical deployment, with a focus on reproducibility, clear assumptions, and metrics that can be defended.
 
 **Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, Saudi Arabia, the UAE, and remote teams**
 
