@@ -2,7 +2,7 @@
 
 # Abdulrahman Ahmed
 
-### AI Engineer · Machine Learning Engineer · Data Scientist
+### AI Engineer · Machine Learning Engineer
 
 I design and build applied AI systems that connect **data engineering, machine learning, model evaluation, and deployment**. My focus is turning experimental models into understandable, testable, and usable software—with clear assumptions and metrics that can be defended in a technical interview.
 
@@ -22,7 +22,7 @@ I design and build applied AI systems that connect **data engineering, machine l
 - **Computer Vision:** image classification and object detection with PyTorch, TensorFlow, OpenCV, and YOLOv8.
 - **Data & MLOps:** distributed processing, workflow orchestration, experiment tracking, containerized services, and reproducible pipelines.
 - **NLP & Generative AI:** embeddings, semantic search, retrieval-augmented generation, local LLM inference, and source-aware responses.
-- **Production Thinking:** designing around data quality, split strategy, leakage prevention, threshold trade-offs, latency, and maintainability.
+- **Engineering Practices:** data quality, split strategy, leakage prevention, threshold analysis, reproducibility, latency, and maintainability.
 
 ## Selected Evidence
 
@@ -34,7 +34,7 @@ I design and build applied AI systems that connect **data engineering, machine l
 | Plant-disease classification | **0.9963 validation accuracy** on **15,231 images across 33 classes** |
 | Healthcare data pipeline | **11,679 patient rows** and millions of related synthetic clinical-event rows processed through a distributed pipeline |
 
-> Metrics are labeled with their actual split. Validation and holdout results are not presented as production performance or as a substitute for an untouched external test set.
+> Metrics are labeled with their actual evaluation split. Validation and chronological-holdout results are reported as project-level experimental evidence—not as production performance or a substitute for an untouched external test set.
 
 ## Featured Projects
 
@@ -50,8 +50,6 @@ An imbalanced-learning system built on the PaySim dataset to identify fraudulent
 - Combined model probabilities with explicit weights: XGBoost **30%**, LightGBM **30%**, CatBoost **40%**.
 - Achieved **0.951918 ROC-AUC** on the chronological holdout and **0.966423 ROC-AUC** on the training sample.
 - The train/holdout gap was **0.014505 AUC**, equivalent to **1.45 percentage points**.
-
-At the notebook’s F1-selected threshold of **0.981419**, the holdout produced **60.8% precision** and **36.4% recall**. Because the threshold was selected on that holdout in the current notebook, these operating-point metrics are reported transparently and should not be interpreted as an untouched final estimate.
 
 `Python` `Pandas` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Gradio`
 
@@ -102,7 +100,6 @@ A YOLOv8 object-detection experiment evaluated on a validation split of **1,655 
 - **96.06% precision**
 - **91.06% recall**
 - **81.14% mAP@50:95**
-- A recorded single-image run reported **9.9 ms inference** at 640×640 on a Tesla P100 environment; this is not an edge-device benchmark.
 
 `Python` `Ultralytics` `YOLOv8` `PyTorch` `OpenCV`
 
