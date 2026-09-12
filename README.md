@@ -36,102 +36,63 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 
 > Metrics are labeled with their actual evaluation split. Validation and chronological-holdout results are reported as project-level experimental evidence—not as production performance or a substitute for an untouched external test set.
 
-## Featured Projects
+## Selected Projects
 
-### Financial Fraud Detection
+A focused selection of applied AI/ML work spanning machine learning, AI application engineering, distributed ML/data systems, and computer vision.
 
-An imbalanced-learning system built on the PaySim dataset to identify fraudulent transactions while making the precision/recall trade-off explicit.
+### Financial Fraud Detection System
 
-- Audited dataset size: **6,362,620 transactions**, including **8,213 fraud cases** (**0.129082%**).
-- Verified **0 duplicate rows** and no missing values in the loaded dataset.
-- Used a chronological, step-ordered split rather than a random split.
-- Engineered time, amount, transaction-type, user-history, and destination features using training-derived statistics where applicable.
-- Trained XGBoost, LightGBM, and CatBoost models.
-- Combined model probabilities with explicit weights: XGBoost **30%**, LightGBM **30%**, CatBoost **40%**.
-- Achieved **0.951918 ROC-AUC** on the chronological holdout and **0.966423 ROC-AUC** on the training sample.
-- The train/holdout gap was **0.014505 AUC**, equivalent to **1.45 percentage points**.
+A personal machine-learning project for detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
 
-`Python` `Pandas` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `Gradio`
+* Analyzed the PaySim dataset with **6.36M transactions** and **8,213 fraud cases** (~**0.129%**).
+* Engineered behavior- and risk-oriented features from transaction timing, amount, sender activity, recipient activity, and transaction type.
+* Trained and combined **XGBoost, LightGBM, and CatBoost** using a weighted ensemble.
+* Achieved **0.9519 ROC-AUC on a chronological holdout of 1,272,524 transactions**.
+
+**Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
 
 [View the project →](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System)
 
+### AI Resume Analyzer
+
+A collaborative AI application focused on resume and job-document workflows, structured evidence extraction, requirement matching, retrieval, and guided career interactions.
+
+* Designed around the workflow from **document ingestion and structured extraction to requirement matching, retrieval, and guided responses**.
+* Separates required and preferred job requirements to make matching results more explicit and interpretable.
+* Connects backend services, data persistence, retrieval, application workflows, and controlled AI responses.
+* The referenced repository returned **404 during review**; implementation-level details and individual contributions should be confirmed after the public repository link is restored or corrected.
+
+**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, information retrieval
+
+[View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
+
 ### Healthcare Recommendation System
 
-A distributed, synthetic-EHR recommendation-pipeline prototype built with Synthea data. The system is designed as an engineering project—not as clinically validated medical decision support.
+A collaborative engineering project for building recommendation workflows over synthetic electronic-health-record data.
 
-- Generates reproducible synthetic data with Synthea using a fixed seed and a configured population of **10,000 patients**.
-- The committed exploration notebook reports **11,679 patient rows** plus millions of related rows across conditions, medications, observations, encounters, and procedures.
-- Ingests data into **Hadoop HDFS** and **ClickHouse**.
-- Uses **Apache Spark 3.5.3** for cleaning and feature engineering.
-- Orchestrates stages with **Apache Airflow** and tracks experiments with **MLflow**.
-- Implements Spark ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid model.
-- Exposes recommendation services through Flask and Streamlit within a Docker Compose environment.
+* Processes synthetic **Synthea** data using **Apache Spark 3.5.3**, Hadoop HDFS, and ClickHouse.
+* Implements multiple recommendation approaches, including **Spark ALS, TF-IDF content-based recommendation, and an XGBoost hybrid model**.
+* Orchestrates ingestion, processing, training, evaluation, and model-serving workflows with **Apache Airflow** and tracks experiments with **MLflow**.
+* Exposes recommendations through a **Flask REST API** and Streamlit interface within a Docker Compose environment.
 
-`Apache Spark 3.5.3` `Hadoop HDFS` `ClickHouse` `Airflow` `MLflow` `XGBoost` `Docker` `Flask` `Streamlit`
+> Uses synthetic data and is presented as an engineering prototype, not as clinically validated medical decision support.
+
+**Technologies:** Python, Apache Spark, PySpark, Hadoop HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, Docker Compose
 
 [View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
 
-### Napta — Agricultural AI Platform
+### Urban Scene Semantic Segmentation with U-Net
 
-A graduation project developed by a six-person team to support agricultural image analysis and farmer-oriented assistance.
+A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
 
-The available public evidence supports describing Napta as a team project involving agricultural computer vision and an assistant. Detailed claims about my individual FastAPI ownership and the project’s full model metrics are intentionally not presented here until the corresponding project repository or direct implementation artifacts are publicly available for verification.
+* Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
+* Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative visualization.
+* Used skip connections to preserve spatial information for pixel-level class prediction.
+* Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
 
-`Computer Vision` `Deep Learning` `FastAPI` `Agricultural AI`
+**Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
 
-### Pest Detection
-
-A YOLOv8 object-detection experiment evaluated on a validation split of **3,000 images** and **5,929 labeled instances**.
-
-- **98.34% mAP@50**
-- **98.75% precision**
-- **95.63% recall**
-- **86.35% mAP@50:95**
-
-`Python` `Ultralytics` `YOLOv8` `PyTorch` `OpenCV`
-
-[View the project →](https://github.com/Abdulrahman181/pest-detection)
-
-### Weed Detection
-
-A YOLOv8 object-detection experiment evaluated on a validation split of **1,655 images** and **4,250 labeled instances**.
-
-- **95.12% mAP@50**
-- **96.06% precision**
-- **91.06% recall**
-- **81.14% mAP@50:95**
-
-`Python` `Ultralytics` `YOLOv8` `PyTorch` `OpenCV`
-
-[View the project →](https://github.com/Abdulrahman181/weed-detection)
-
-### Plant-Disease Classification
-
-A PlantVillage image-classification experiment using a 33-class validation setup.
-
-- **99.63% validation accuracy** on **15,231 images**.
-- The result is explicitly labeled as validation accuracy; it is not presented as untouched test accuracy.
-- Dataset and experiment variants are kept separate because another notebook in the same project uses a different 39-class, 7,800-image split and reports a materially different result.
-
-`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `Scikit-learn`
-
-[View the project →](https://github.com/Abdulrahman181/Classification-of-plant-diseases)
-
-### Smart Document Assistant
-
-A local document question-answering application that combines retrieval with local LLM inference.
-
-- Uses SentenceTransformers embeddings and a local FAISS index.
-- Retrieves the top three relevant documents for a question.
-- Uses a local Llama-based model through CTransformers.
-- Displays source-document references in the Streamlit interface.
-- Uses a context-constrained prompt that instructs the assistant to answer only from retrieved context.
-
-The implementation supports a **source-aware RAG design**. No unsupported claim is made that the system eliminates hallucinations, and no numerical answer-quality benchmark is claimed.
-
-`Python` `SentenceTransformers` `FAISS` `CTransformers` `Llama` `Streamlit` `LangChain`
-
-[View the project →](https://github.com/Abdulrahman181/Smart-Document-Assistant)
+[View the project →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
 
 ## Experience
 
