@@ -4,9 +4,9 @@
 
 ### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I build applied AI and machine-learning systems across the lifecycle—from data preparation and model development to evaluation and usable software. My work spans computer vision, NLP and retrieval-augmented generation, ML pipelines, and practical deployment, with a focus on reproducibility, clear assumptions, and metrics that can be defended.
+I build applied AI and machine-learning systems across the lifecycle—from **data preparation and model development to evaluation, serving, and deployment**. My work spans **computer vision, NLP and retrieval-augmented generation, ML pipelines, and practical AI applications**, with a focus on **reproducibility, clear assumptions, and measurable model performance**.
 
-**Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, Saudi Arabia, the UAE, and remote teams**
+**Based in Benha, Egypt · Open to AI/ML opportunities across Egypt, Saudi Arabia, the UAE, and remote roles**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rahman-ahmed-711565255)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmannassar202@gmail.com)
