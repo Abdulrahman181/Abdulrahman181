@@ -29,12 +29,11 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 | Project area | Audited result |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Pest detection | **0.9834 mAP@50** on a **3,000-image validation split** |
-| Weed detection | **0.9512 mAP@50** on a **1,655-image validation split** |
-| Plant-disease classification | **0.9963 validation accuracy** on **15,231 images across 33 classes** |
-| Healthcare data pipeline | **11,679 patient rows** and millions of related synthetic clinical-event rows processed through a distributed pipeline |
+| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions; repository link requires verification |
+| Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
+| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
 
-> Metrics are labeled with their actual evaluation split. Validation and chronological-holdout results are reported as project-level experimental evidence—not as production performance or a substitute for an untouched external test set.
+Metrics are labeled with their actual evaluation split. Validation and chronological-holdout results are reported as project-level experimental evidence—not as production performance or a substitute for an untouched external test set. Collaborative projects are not presented as individually owned unless the repository evidence establishes individual ownership.
 
 ## Selected Projects
 
