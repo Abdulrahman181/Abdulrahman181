@@ -18,11 +18,11 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 
 ## Professional Focus
 
-- **Applied Machine Learning:** classification, ranking, imbalanced learning, feature engineering, model evaluation, and cross-validation.
-- **Computer Vision:** image classification and object detection with PyTorch, TensorFlow, OpenCV, and YOLOv8.
-- **Data & MLOps:** distributed processing, workflow orchestration, experiment tracking, containerized services, and reproducible pipelines.
-- **NLP & Generative AI:** embeddings, semantic search, retrieval-augmented generation, local LLM inference, and source-aware responses.
-- **Engineering Practices:** data quality, split strategy, leakage prevention, threshold analysis, reproducibility, latency, and maintainability.
+- **Model Development & Evaluation:** classification, ranking, feature engineering, imbalanced learning, cross-validation, and rigorous evaluation.
+- **Computer Vision:** image classification, object detection, transfer learning, image preprocessing, and inference workflows.
+- **NLP & Retrieval:** embeddings, semantic search, document question answering, retrieval-augmented generation, and local language-model applications.
+- **Data & ML Workflows:** data preparation, exploratory analysis, SQL, distributed processing, experiment tracking, and workflow automation.
+- **AI Application Delivery:** model serving, API integration, containerization, reproducible workflows, and connecting trained models to usable applications.
 
 ## Selected Evidence
 
