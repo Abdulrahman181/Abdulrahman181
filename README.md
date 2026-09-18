@@ -93,22 +93,55 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 [View the project →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
 
-## Experience
+## Professional Experience
 
-**Data Science Lead Trainer — AXIS Tech Community**<br>
-*May 2025 – Present*
+**AI Trainer — MFC** | Aug 2026 – Present
 
-Design and deliver practical machine-learning and data-science training for **100+ students**, covering regression, classification, SQL, feature engineering, and model validation.
+* Deliver structured Artificial Intelligence training for students, progressing from **fundamental concepts and core foundations to advanced AI topics and practical implementation**.
+* Build students’ technical understanding through a combination of **conceptual foundations, hands-on development, problem solving, and project-based learning**.
+* Guide students in translating AI concepts into practical solutions and applying structured development workflows to real-world problem scenarios.
 
-**Data Science Intern — Pure Soft**<br>
-*Dec 2025 – Feb 2026*
+**Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-Built EDA and feature-engineering pipelines for **100K+ customer records**, fine-tuned tree-based models, and deployed inference through containerized FastAPI services.
+* Deliver practical Data Science training covering **Python, SQL, Machine Learning, data analysis, and project development**.
+* Design and deliver technical sessions that connect data science principles with **practical implementation, analytical reasoning, and project-based problem solving**.
+* Guide learners throughout project development, covering **data preparation, exploratory analysis, model development, evaluation, and solution implementation**.
+* Review and support technical projects with emphasis on **problem formulation, analytical thinking, model selection, implementation quality, and practical application**.
 
-**AI Intern — Aitronix**<br>
-*Sep 2025 – Nov 2025*
+## Technical Internships
 
-Worked with Azure ML to organize model-lifecycle workflows and track artifacts through Azure Blob Storage.
+**AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
+
+* Contributed to applied AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, working with different approaches according to project requirements.
+* Contributed to AI development workflows involving **data handling, model experimentation, and integration of AI capabilities into application systems**.
+* Worked with **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
+
+**Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
+
+* Collected and transformed data from multiple web sources using **web scraping**, producing structured datasets for data science and machine learning applications.
+* Worked across data preparation workflows including **data acquisition, cleaning, transformation, structuring, and preparation for downstream analysis and modeling**.
+* Developed **recommendation system and chatbot solutions**, applying processed data within practical AI-driven applications.
+* Contributed across the solution development workflow from **data acquisition and preparation through machine learning implementation and backend/API integration**.
+
+## Certifications & Professional Training
+
+**Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
+
+**Agentic AI Track** | ITI | 3-Month Program
+
+**HCIA-AI V3.5 & V4.0** | Huawei Academy
+
+**HCIA-Big Data V3.5 & V4.0** | Huawei Academy
+
+**Artificial Intelligence Training** | NTI | 120 Hours
+
+**Machine Learning Training** | NTI | 72 Hours
+
+**Computer Vision Training** | NTI | 72 Hours
+
+**Egyptian Talent Academy — AI Track** | NTI & Huawei
+
+**Agentic AI Track** | Digital Hub | 5-Week Program
 
 ## Technical Stack
 
