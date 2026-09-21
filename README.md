@@ -143,18 +143,55 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Agentic AI Track** | Digital Hub | 5-Week Program
 
-## Technical Stack
+## Technical Capabilities
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,docker,fastapi,git,github,postgres,mysql,linux,vscode" alt="Technical stack icons" />
-</p>
+### Programming, Data & Analytics
 
-**Machine Learning:** Scikit-learn · XGBoost · LightGBM · CatBoost · Model evaluation · Imbalanced learning · Ranking metrics · Cross-validation<br>
-**Computer Vision:** PyTorch · TensorFlow · Keras · YOLOv8 · OpenCV · Albumentations · Transfer learning<br>
-**NLP & GenAI:** SentenceTransformers · FAISS · RAG · Embeddings · Local LLM inference · LangChain<br>
-**Data Engineering:** Pandas · Apache Spark · Hadoop HDFS · ClickHouse · SQL<br>
-**MLOps & Delivery:** Airflow · MLflow · Docker · FastAPI · Flask · Streamlit · GitHub Actions · Azure ML<br>
-**Databases & Tools:** PostgreSQL · MySQL · Linux · Git · GitHub
+Data Acquisition → Data Quality & Validation → Data Cleaning → Data Transformation → Exploratory Data Analysis → Feature Engineering → Analytical Modeling
+
+**Capabilities:** `Data Processing` · `Statistical Analysis` · `Feature Engineering` · `Feature Selection` · `Data Validation` · `Analytical Modeling`
+
+### Machine Learning
+
+Problem Formulation → Data & Feature Strategy → Model Selection → Model Benchmarking → Imbalance Handling → Validation Strategy → Hyperparameter Optimization → Model Evaluation → Error Analysis
+
+**Capabilities:** `Supervised Learning` · `Classification` · `Gradient-Boosted Modeling` · `Ensemble Learning` · `Imbalanced Learning` · `Model Selection` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
+
+### Deep Learning
+
+Problem Definition → Architecture Design → Representation Learning → Training Strategy → Validation → Inference → Performance Evaluation
+
+**Capabilities:** `Neural Network Modeling` · `CNN Architectures` · `Transfer Learning` · `Training & Validation` · `Inference Pipelines`
+
+### Computer Vision
+
+Image & Label Preparation → Preprocessing → Augmentation → Representation Learning → Detection / Classification / Segmentation → Inference
+
+**Capabilities:** `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Computer Vision Inference`
+
+### NLP, Generative AI & Retrieval
+
+Text Processing → Representation Learning → Embedding Generation → Semantic Retrieval → Vector Search → RAG → Document Question Answering → LLM Integration
+
+**Capabilities:** `Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `Information Retrieval` · `RAG Systems` · `Document Question Answering` · `LLM Applications`
+
+### Agentic AI
+
+Task Understanding → Task Decomposition → Context & Retrieval → Tool Interaction → Multi-step Execution → Result Synthesis
+
+**Capabilities:** `Agent Workflows` · `Task Decomposition` · `Tool Calling` · `Context & Retrieval` · `Multi-step Execution`
+
+### AI Engineering & Application Development
+
+AI System Design → Model & Retrieval Integration → Backend Architecture → API Design → Serving → Application Integration → Containerization
+
+**Capabilities:** `AI Application Architecture` · `Model & Retrieval Integration` · `API Engineering` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
+
+### Data Engineering, MLOps & Cloud
+
+Pipeline Design → Data Ingestion → Distributed Processing → Workflow Orchestration → Analytical Storage → Experiment Tracking → Model Lifecycle → Reproducible ML Workflows
+
+**Capabilities:** `Distributed Data Processing` · `Data Pipeline Engineering` · `Workflow Orchestration` · `Analytical Data Systems` · `Experiment Tracking` · `Model Lifecycle Management` · `Reproducible ML Systems` · `Cloud ML Workflows`
 
 ## Education
 
