@@ -196,29 +196,29 @@ Pipeline Design → Data Ingestion → Distributed Processing → Workflow Orche
 ## Education
 
 **B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
-*July 2025 · Graduation Project: Napta Agricultural AI Platform · Grade: Excellent (A+)*
+*July 2025 · Graduation Project: Napta Agricultural AI Platform · Project Grade: Excellent (A+)*
 
 Additional training in Data Science and Analytics, Machine Learning Engineering, Deep Learning and Computer Vision, and Big Data Engineering.
 
 ## Engineering Principles
 
-- **Measure the right thing:** choose metrics that match the problem, especially under class imbalance.
-- **Respect the split:** distinguish training, validation, holdout, and test data clearly.
-- **Make claims traceable:** connect public results to code, outputs, and reproducible experiments.
-- **Build for use:** treat serving, error handling, monitoring, and maintainability as part of the ML system.
-- **Communicate trade-offs:** explain what a model does well, where it can fail, and what remains unverified.
+- **Measure what matters:** align evaluation metrics with the problem, data characteristics, and real-world objective rather than relying on a single headline score.
+- **Protect evaluation integrity:** design data splits carefully, prevent leakage, and distinguish training, validation, holdout, and test results.
+- **Make results reproducible:** connect reported claims to code, experiment outputs, configurations, and traceable evaluation procedures.
+- **Engineer beyond the model:** treat data pipelines, integration, serving, reliability, and maintainability as part of the AI system.
+- **Communicate limitations:** state assumptions, trade-offs, failure modes, and unverified areas clearly rather than overstating results.
 
 ## Currently Focused On
 
-- Building reliable AI applications from data preparation through deployment.
-- Improving MLOps practices with reproducible pipelines, experiment tracking, CI/CD, and containerized serving.
-- Strengthening system design for scalable machine-learning products.
-- Developing evaluation protocols that separate model quality from optimistic experimentation.
+- Building practical AI systems that connect **data, models, retrieval, APIs, and deployment** into usable applications.
+- Advancing **Generative AI, RAG, and Agentic AI** through retrieval-driven workflows, tool interaction, and application-level integration.
+- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, cloud ML tooling, and containerized serving.
+- Improving **model and system evaluation** with stronger validation protocols, reproducibility, and evidence-based performance analysis.
 
 ---
 
 <div align="center">
 
-**Open to collaborating on applied AI, machine learning, computer vision, data engineering, and MLOps projects.**
+**Open to collaborating on applied AI, machine learning, computer vision, Generative AI, MLOps, and data-intensive AI systems.**
 
 </div>
