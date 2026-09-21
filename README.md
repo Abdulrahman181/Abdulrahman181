@@ -29,7 +29,7 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 | Project area | Audited result |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions; repository link requires verification |
+| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions; public repository link unavailable at review time |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
 
@@ -43,10 +43,10 @@ A focused selection of applied AI/ML work spanning machine learning, AI applicat
 
 A personal machine-learning project for detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
 
-* Analyzed the PaySim dataset with **6.36M transactions** and **8,213 fraud cases** (~**0.129%**).
-* Engineered behavior- and risk-oriented features from transaction timing, amount, sender activity, recipient activity, and transaction type.
-* Trained and combined **XGBoost, LightGBM, and CatBoost** using a weighted ensemble.
-* Achieved **0.9519 ROC-AUC on a chronological holdout of 1,272,524 transactions**.
+- Analyzed the PaySim dataset with **6.36M transactions** and **8,213 fraud cases** (~**0.129%**).
+- Engineered behavior- and risk-oriented features from transaction timing, amount, sender activity, recipient activity, and transaction type.
+- Trained and combined **XGBoost, LightGBM, and CatBoost** using a weighted ensemble.
+- Achieved **0.9519 ROC-AUC on a chronological holdout of 1,272,524 transactions**.
 
 **Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
 
@@ -56,23 +56,23 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 A collaborative AI application focused on resume and job-document workflows, structured evidence extraction, requirement matching, retrieval, and guided career interactions.
 
-* Designed around the workflow from **document ingestion and structured extraction to requirement matching, retrieval, and guided responses**.
-* Separates required and preferred job requirements to make matching results more explicit and interpretable.
-* Connects backend services, data persistence, retrieval, application workflows, and controlled AI responses.
-* The referenced repository returned **404 during review**; implementation-level details and individual contributions should be confirmed after the public repository link is restored or corrected.
+- Designed around the workflow from **document ingestion and structured extraction to requirement matching, retrieval, and guided responses**.
+- Separates required and preferred job requirements to make matching results more explicit and interpretable.
+- Connects backend services, data persistence, retrieval, application workflows, and controlled AI responses.
+- The referenced repository returned **404 during review**. The project is retained as collaborative work, but implementation-level details and individual contributions should be confirmed after the public repository link is restored or corrected.
 
-**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, information retrieval
+**Technology focus:** Document processing, information retrieval, RAG workflows, backend APIs
 
-[View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
+[Contributor profile →](https://github.com/AnasOsama2)
 
 ### Healthcare Recommendation System
 
 A collaborative engineering project for building recommendation workflows over synthetic electronic-health-record data.
 
-* Processes synthetic **Synthea** data using **Apache Spark 3.5.3**, Hadoop HDFS, and ClickHouse.
-* Implements multiple recommendation approaches, including **Spark ALS, TF-IDF content-based recommendation, and an XGBoost hybrid model**.
-* Orchestrates ingestion, processing, training, evaluation, and model-serving workflows with **Apache Airflow** and tracks experiments with **MLflow**.
-* Exposes recommendations through a **Flask REST API** and Streamlit interface within a Docker Compose environment.
+- Processes synthetic **Synthea** data using **Apache Spark 3.5.3**, Hadoop HDFS, and ClickHouse.
+- Implements multiple recommendation approaches, including **Spark ALS, TF-IDF content-based recommendation, and an XGBoost hybrid model**.
+- Orchestrates ingestion, processing, training, evaluation, and model-serving workflows with **Apache Airflow** and tracks experiments with **MLflow**.
+- Exposes recommendations through a **Flask REST API** and Streamlit interface within a Docker Compose environment.
 
 > Uses synthetic data and is presented as an engineering prototype, not as clinically validated medical decision support.
 
@@ -84,10 +84,10 @@ A collaborative engineering project for building recommendation workflows over s
 
 A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
 
-* Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
-* Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative visualization.
-* Used skip connections to preserve spatial information for pixel-level class prediction.
-* Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
+- Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
+- Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative visualization.
+- Used skip connections to preserve spatial information for pixel-level class prediction.
+- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
 
 **Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
 
