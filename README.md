@@ -18,18 +18,18 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 
 ## Professional Focus
 
-- **Model Development & Evaluation:** classification, ranking, feature engineering, imbalanced learning, cross-validation, and rigorous model evaluation.
-- **Computer Vision:** image classification, object detection, semantic segmentation, transfer learning, image preprocessing, and inference workflows.
-- **NLP, Generative AI & Agents:** embeddings, semantic retrieval, document question answering, retrieval-augmented generation, local LLM applications, agentic workflows, and tool-assisted AI workflows.
-- **Data & ML Workflows:** data preparation, exploratory analysis, SQL, distributed processing, experiment tracking, and workflow automation.
-- **AI Application Delivery:** model serving, API integration, containerization, reproducible workflows, and connecting AI models and retrieval systems to usable applications.
+- **Model Development & Evaluation:** supervised learning, classification, feature engineering, imbalanced learning, cross-validation, model selection, and rigorous evaluation.
+- **Computer Vision:** image classification, object detection, semantic segmentation, transfer learning, image preprocessing, augmentation, and inference workflows.
+- **NLP, Generative AI & Agents:** embeddings, semantic retrieval, document question answering, retrieval-augmented generation, LLM applications, agent workflows, and tool calling.
+- **Data & ML Workflows:** data preparation, exploratory analysis, SQL, distributed processing, experiment tracking, and workflow orchestration.
+- **AI Application Engineering:** model and retrieval integration, API development, serving, containerization, and practical AI application delivery.
 
 ## Selected Evidence
 
-| Project area | Audited result |
+| Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions; public repository link unavailable at review time |
+| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
 
@@ -56,14 +56,13 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 A collaborative AI application focused on resume and job-document workflows, structured evidence extraction, requirement matching, retrieval, and guided career interactions.
 
-- Designed around the workflow from **document ingestion and structured extraction to requirement matching, retrieval, and guided responses**.
-- Separates required and preferred job requirements to make matching results more explicit and interpretable.
-- Connects backend services, data persistence, retrieval, application workflows, and controlled AI responses.
-- The referenced repository returned **404 during review**. The project is retained as collaborative work, but implementation-level details and individual contributions should be confirmed after the public repository link is restored or corrected.
+- Combines document ingestion, structured extraction, requirement matching, retrieval, and controlled AI responses in an application workflow.
+- Separates required and preferred job requirements to support more explicit and interpretable matching.
+- Connects backend services, data persistence, retrieval, and guided career interactions.
 
-**Technology focus:** Document processing, information retrieval, RAG workflows, backend APIs
+**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, information retrieval
 
-[Contributor profile →](https://github.com/AnasOsama2)
+[View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
 
 ### Healthcare Recommendation System
 
@@ -198,7 +197,6 @@ Pipeline Design → Data Ingestion → Distributed Processing → Workflow Orche
 **B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
 *July 2025 · Graduation Project: Napta Agricultural AI Platform · Project Grade: Excellent (A+)*
 
-Additional training in Data Science and Analytics, Machine Learning Engineering, Deep Learning and Computer Vision, and Big Data Engineering.
 
 ## Engineering Principles
 
