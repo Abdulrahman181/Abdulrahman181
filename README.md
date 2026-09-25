@@ -4,9 +4,11 @@
 
 ### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I build practical AI and machine-learning systems across **data preparation, model development, evaluation, and application deployment**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application engineering**, with a focus on **reproducibility, measurable evaluation, and practical implementation**.
+**Generative AI · RAG · Agentic AI · Computer Vision**
 
-**Based in Benha, Egypt · Open to AI/ML opportunities across Egypt, Saudi Arabia, the UAE, and remote roles**
+I develop AI and machine-learning systems across **data preparation, model development, evaluation, and application integration**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application workflows**.
+
+**Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, across the Gulf, and remotely**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rahman-ahmed-711565255)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmannassar202@gmail.com)
