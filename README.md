@@ -116,38 +116,38 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **AI Trainer — MFC** | Aug 2026 – Present
 
-- Deliver structured Artificial Intelligence training progressing from fundamental concepts to advanced topics and practical implementation.
-- Lead hands-on problem solving and project-based development, helping students translate AI concepts into working solutions.
-- Guide learners through structured AI development workflows and practical application of core techniques.
+- Deliver structured Artificial Intelligence training from foundational concepts through advanced topics, combining technical instruction with hands-on implementation.
+- Lead practical exercises and project-based development, helping learners translate AI concepts into working solutions.
+- Guide learners through AI development workflows, from experimentation and problem solving to implementation in practical projects.
 
 **Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-- Deliver practical Data Science training covering data analysis, SQL, Machine Learning, and project development.
-- Connect data science concepts with analytical reasoning, hands-on implementation, and project-based problem solving.
-- Guide projects through data preparation, exploratory analysis, model development, evaluation, and implementation.
+- Deliver practical Data Science training covering **data analysis, SQL, Machine Learning, and project development**.
+- Guide learners through analytical problem solving and hands-on implementation across structured projects.
+- Support projects across **data preparation, exploratory analysis, model development, evaluation, and implementation**.
 
 ## Technical Internships
 
 **AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
 
-- Contributed to applied AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data handling, model experimentation, and AI integration into application systems.
-- Worked with **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
+- Contributed to AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data preparation, model experimentation, and application integration.
+- Used **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
 
 **Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
 
-- Collected, cleaned, transformed, and structured data from multiple web sources using **web scraping** for downstream analysis and machine learning.
-- Developed recommendation-system and chatbot solutions and contributed to backend/API integration.
-- Supported the workflow from data acquisition and preparation through machine learning implementation and application integration.
+- Collected, cleaned, transformed, and structured data from multiple web sources using **web scraping** for analysis and machine-learning workflows.
+- Contributed to **recommendation-system and chatbot solutions**, including backend and API integration.
+- Supported the workflow from data acquisition and preparation through model development and application integration.
 
 ## Certifications & Professional Training
 
 **Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
 
-**Agentic AI Track** | ITI | 3-Month Program
-
 **HCIA-AI V3.5 & V4.0** | Huawei Academy
 
 **HCIA-Big Data V3.5 & V4.0** | Huawei Academy
+
+**Agentic AI Track** | ITI | 3-Month Program
 
 **Artificial Intelligence Training** | NTI | 120 Hours
 
@@ -155,9 +155,9 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Computer Vision Training** | NTI | 72 Hours
 
-**Egyptian Talent Academy — AI Track** | NTI & Huawei
-
 **Agentic AI Track** | Digital Hub | 5-Week Program
+
+**Egyptian Talent Academy — AI Track** | NTI & Huawei
 
 ## Technical Capabilities
 
