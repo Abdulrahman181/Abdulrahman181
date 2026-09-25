@@ -163,11 +163,11 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ### Machine Learning & Data Science
 
-`Data Analysis` · `SQL` · `Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
+`Data Analysis` · `SQL` · `Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Model Validation` · `Hyperparameter Optimization` · `Model Evaluation`
 
 ### Deep Learning & Computer Vision
 
-`Neural Network Modeling` · `CNN Architectures` · `Transfer Learning` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Inference Pipelines`
+`Neural Network Modeling` · `CNN Architectures` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Inference Pipelines`
 
 ### NLP, Generative AI & Retrieval
 
@@ -179,11 +179,11 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ### AI Engineering
 
-`AI System Design` · `Model & Retrieval Integration` · `API Engineering` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
+`AI Application Integration` · `Model & Retrieval Integration` · `API Development` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
 
 ### Data, MLOps & Cloud
 
-`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Analytical Data Systems` · `Experiment Tracking` · `Model Lifecycle Management` · `Cloud ML Workflows`
+`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Data Processing & Analytical Systems` · `Experiment Tracking` · `Model Registration` · `Cloud ML Workflows` · `Containerized ML Workflows`
 
 ## Education
 
