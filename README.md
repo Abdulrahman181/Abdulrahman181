@@ -82,7 +82,7 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 
 **Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
 
-[View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
+[View the project →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
 
 ### Healthcare Recommendation System
 
