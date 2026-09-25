@@ -31,7 +31,7 @@ I develop AI and machine-learning systems across **data preparation, model devel
 | Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agricultural AI | YOLO-based crop disease detection workflow covering **12 crop disease profiles** within the Napta agricultural AI platform |
+| Agricultural AI | Three computer-vision models for plant disease, harmful weeds, and agricultural pests, with database-backed agricultural information and a RAG-based application layer |
 | AI application engineering | Collaborative resume-analysis workflow combining document processing, structured extraction, requirement matching, retrieval, and guided career interactions |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
@@ -44,14 +44,16 @@ A selection of applied AI projects covering computer vision, machine learning, r
 
 ### Napta Agricultural AI Platform
 
-A collaborative agricultural AI platform combining computer vision, agricultural data, and AI application integration.
+A collaborative agricultural AI platform where I led the **AI development workstream**, combining three computer-vision models, database-backed agricultural knowledge, and a RAG-based application layer.
 
-- Led the AI development workstream of the graduation project, translating agricultural requirements into three AI components covering plant-disease detection, harmful-insect detection, and pest classification.
-- Developed the plant-disease detection component across **12 crop disease profiles** and connected model outputs to the corresponding agricultural data.
-- Evaluated YOLO model variants from **v5 through v12**, comparing training configurations, validation results, inference behavior, and model stability.
+- Led the AI workstream of the graduation project, translating agricultural requirements into three computer-vision models and the supporting AI application workflow.
+- Developed a plant-disease detection model covering **12 crop disease profiles**, with its outputs connected to a database containing related agricultural information and treatment guidance.
+- Developed a harmful-weed detection and classification model, connected to a database containing the corresponding weed information.
+- Developed an agricultural-pest detection and classification model, connected to a database containing the corresponding pest information.
+- Evaluated YOLO model variants from **v5 through v12** across the computer-vision models, comparing training configurations, validation results, inference behavior, and model stability.
 - Expanded the training data through additional collection, preprocessing, and augmentation, followed by iterative retraining and evaluation.
 - Used deployment and inference testing to compare candidate configurations under application runtime conditions before integration.
-- Integrated the AI workflow with **OpenCV, Albumentations, FastAPI, and Docker**, connecting model outputs with the application's agricultural knowledge and retrieval workflow.
+- Integrated the models with **OpenCV, Albumentations, FastAPI, and Docker**, and connected their database-backed outputs to the project's **RAG layer** for contextual agricultural assistance.
 
 **Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker, RAG
 
