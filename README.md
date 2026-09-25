@@ -20,10 +20,11 @@ I develop AI and machine-learning systems across **data preparation, model devel
 
 ## Professional Focus
 
-- **Machine Learning:** model development, feature engineering, imbalance handling, model selection, validation, and evaluation.
-- **Computer Vision:** object detection, image classification, semantic segmentation, preprocessing, augmentation, and inference.
+- **Machine Learning:** model development, feature engineering, imbalanced learning, model selection, validation, and evaluation.
+- **Computer Vision:** object detection, semantic segmentation, image preprocessing, augmentation, and inference.
 - **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
-- **AI Engineering:** model integration, API development, serving, containerization, and reproducible AI workflows.
+- **Agentic AI:** agent workflows, task decomposition, tool calling, context retrieval, and multi-step execution.
+- **AI Engineering:** model integration, API development, model serving, application integration, and containerization.
 
 ## Selected Evidence
 
