@@ -4,7 +4,7 @@
 
 ### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I build practical AI and machine-learning systems across **data preparation, model development, evaluation, and application delivery**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application engineering**, with a focus on **reproducibility, measurable evaluation, and practical implementation**.
+I build practical AI and machine-learning systems across **data preparation, model development, evaluation, and application deployment**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application engineering**, with a focus on **reproducibility, measurable evaluation, and practical implementation**.
 
 **Based in Benha, Egypt · Open to AI/ML opportunities across Egypt, Saudi Arabia, the UAE, and remote roles**
 
@@ -23,11 +23,12 @@ I build practical AI and machine-learning systems across **data preparation, mod
 - **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
 - **AI Engineering:** model integration, API development, serving, containerization, and reproducible AI workflows.
 
-## Key Results
+## Selected Evidence
 
 | Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
+| Agricultural AI | Computer-vision workflow covering **12 crop disease profiles** within the Napta agricultural AI platform |
 | AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
@@ -42,7 +43,7 @@ A focused selection of applied AI/ML projects covering **machine learning, compu
 
 A collaborative agricultural AI platform combining computer vision and practical AI services to support crop disease analysis.
 
-- Contributed to the AI-focused development work, translating the agricultural problem into an applied computer-vision workflow.
+- Led the AI-focused development work, translating the agricultural problem into an applied computer-vision workflow.
 - Developed a crop disease detection component covering **12 disease profiles** using a YOLO-based object-detection approach.
 - Contributed to the surrounding AI application stack through **OpenCV, Albumentations, FastAPI, and Docker**.
 - Worked across data preparation, model development, evaluation, and AI-service integration.
@@ -66,7 +67,7 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 A collaborative AI application for resume analysis, job matching, retrieval, and guided career interactions.
 
-- Contributed to a workflow combining **document processing, structured extraction, requirement matching, retrieval, and controlled AI responses**.
+- Contributed to a workflow combining **document processing, structured extraction, requirement matching, retrieval, and retrieval-grounded AI responses**.
 - Structured job requirements into **required and preferred criteria** to support more explicit matching logic.
 - Worked across backend services, persistence, retrieval, and AI-driven application workflows.
 
@@ -111,7 +112,7 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-- Deliver practical Data Science training across Python, SQL, Machine Learning, data analysis, and project development.
+- Deliver practical Data Science training covering data analysis, SQL, Machine Learning, and project development.
 - Connect data science concepts with analytical reasoning, hands-on implementation, and project-based problem solving.
 - Guide projects through data preparation, exploratory analysis, model development, evaluation, and implementation.
 
@@ -152,7 +153,7 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ### Machine Learning & Data Science
 
-`Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
+`Data Analysis` · `SQL` · `Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
 
 ### Deep Learning & Computer Vision
 
@@ -177,7 +178,7 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 ## Education
 
 **B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
-*July 2025 · Graduation Project: Napta Agricultural AI Platform · Project Grade: Excellent (A+)*
+*July 2025 · Graduation Project: Napta Agricultural AI Platform*
 
 ## Currently Focused On
 
