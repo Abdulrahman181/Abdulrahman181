@@ -75,7 +75,7 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 A collaborative AI application for resume analysis, job matching, retrieval, and career assistance.
 
-- Contributed to a workflow combining **document processing, structured extraction, deterministic requirement matching, retrieval, and AI-generated responses**.
+- Contributed to a workflow combining **document processing, structured extraction, deterministic requirement matching, retrieval, and AI-assisted responses**.
 - Helped structure job requirements into **required and preferred criteria** to support explicit matching and skill-gap analysis.
 - Worked across **FastAPI services, SQLite persistence, retrieval components, and AI-driven application workflows**.
 - Contributed to separating **resume evidence, job requirements, and retrieved guidance** into distinct sources of context.
