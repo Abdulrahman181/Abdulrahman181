@@ -44,7 +44,7 @@ A focused selection of applied AI/ML projects covering **machine learning, compu
 A collaborative agricultural AI platform combining computer vision and practical AI services to support crop disease analysis.
 
 - Led the AI-focused development work, translating the agricultural problem into an applied computer-vision workflow.
-- Developed a crop disease detection component covering **12 disease profiles** using a YOLO-based object-detection approach.
+- Developed a crop disease detection component covering **12 crop disease profiles** using a YOLO-based object-detection approach.
 - Contributed to the surrounding AI application stack through **OpenCV, Albumentations, FastAPI, and Docker**.
 - Worked across data preparation, model development, evaluation, and AI-service integration.
 
