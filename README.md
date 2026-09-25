@@ -18,11 +18,10 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 
 ## Professional Focus
 
-- **Model Development & Evaluation:** supervised learning, classification, feature engineering, imbalanced learning, cross-validation, model selection, and rigorous evaluation.
-- **Computer Vision:** image classification, object detection, semantic segmentation, transfer learning, image preprocessing, augmentation, and inference workflows.
-- **NLP, Generative AI & Agents:** embeddings, semantic retrieval, document question answering, retrieval-augmented generation, LLM applications, agent workflows, and tool calling.
-- **Data & ML Workflows:** data preparation, exploratory analysis, SQL, distributed processing, experiment tracking, and workflow orchestration.
-- **AI Application Engineering:** model and retrieval integration, API development, serving, containerization, and practical AI application delivery.
+- **Machine Learning:** model development, feature engineering, imbalance handling, model selection, validation, and evaluation.
+- **Computer Vision:** object detection, image classification, semantic segmentation, preprocessing, augmentation, and inference.
+- **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
+- **AI Engineering:** model integration, API development, serving, containerization, and reproducible AI workflows.
 
 ## Selected Evidence
 
@@ -96,31 +95,28 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **AI Trainer — MFC** | Aug 2026 – Present
 
-* Deliver structured Artificial Intelligence training for students, progressing from **fundamental concepts and core foundations to advanced AI topics and practical implementation**.
-* Build students’ technical understanding through a combination of **conceptual foundations, hands-on development, problem solving, and project-based learning**.
-* Guide students in translating AI concepts into practical solutions and applying structured development workflows to real-world problem scenarios.
+- Deliver structured Artificial Intelligence training progressing from fundamental concepts to advanced topics and practical implementation.
+- Lead hands-on problem solving and project-based development, helping students translate AI concepts into working solutions.
+- Guide learners through structured AI development workflows and practical application of core techniques.
 
 **Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-* Deliver practical Data Science training covering **Python, SQL, Machine Learning, data analysis, and project development**.
-* Design and deliver technical sessions that connect data science principles with **practical implementation, analytical reasoning, and project-based problem solving**.
-* Guide learners throughout project development, covering **data preparation, exploratory analysis, model development, evaluation, and solution implementation**.
-* Review and support technical projects with emphasis on **problem formulation, analytical thinking, model selection, implementation quality, and practical application**.
+- Deliver practical Data Science training across Python, SQL, Machine Learning, data analysis, and project development.
+- Connect data science concepts with analytical reasoning, hands-on implementation, and project-based problem solving.
+- Guide projects through data preparation, exploratory analysis, model development, evaluation, and implementation.
 
 ## Technical Internships
 
 **AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
 
-* Contributed to applied AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, working with different approaches according to project requirements.
-* Contributed to AI development workflows involving **data handling, model experimentation, and integration of AI capabilities into application systems**.
-* Worked with **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
+- Contributed to applied Computer Vision, Natural Language Processing, and Machine Learning workflows across AI projects.
+- Worked with Azure Machine Learning for experiment tracking and model registration, alongside Azure Blob Storage for cloud-based data handling.
 
 **Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
 
-* Collected and transformed data from multiple web sources using **web scraping**, producing structured datasets for data science and machine learning applications.
-* Worked across data preparation workflows including **data acquisition, cleaning, transformation, structuring, and preparation for downstream analysis and modeling**.
-* Developed **recommendation system and chatbot solutions**, applying processed data within practical AI-driven applications.
-* Contributed across the solution development workflow from **data acquisition and preparation through machine learning implementation and backend/API integration**.
+- Collected, cleaned, transformed, and structured data from multiple web sources using web scraping for downstream analysis and modeling.
+- Developed recommendation-system and chatbot solutions and contributed to backend/API integration.
+- Supported the workflow from data acquisition and preparation through machine learning implementation and application integration.
 
 ## Certifications & Professional Training
 
@@ -208,10 +204,9 @@ Pipeline Design → Data Ingestion → Distributed Processing → Workflow Orche
 
 ## Currently Focused On
 
-- Building practical AI systems that connect **data, models, retrieval, APIs, and deployment** into usable applications.
-- Advancing **Generative AI, RAG, and Agentic AI** through retrieval-driven workflows, tool interaction, and application-level integration.
+- Building practical AI systems that connect **data, models, retrieval, APIs, and deployment**.
+- Advancing **Generative AI, RAG, and Agentic AI** through retrieval-driven workflows and tool interaction.
 - Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, cloud ML tooling, and containerized serving.
-- Improving **model and system evaluation** with stronger validation protocols, reproducibility, and evidence-based performance analysis.
 
 ---
 
