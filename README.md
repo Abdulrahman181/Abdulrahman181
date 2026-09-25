@@ -31,7 +31,7 @@ I develop AI and machine-learning systems across **data preparation, model devel
 | Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agricultural AI | YOLO-based crop disease detection workflow covering **12 disease profiles** within the Napta agricultural AI platform |
+| Agricultural AI | YOLO-based crop disease detection workflow covering **12 crop disease profiles** within the Napta agricultural AI platform |
 | AI application engineering | Collaborative resume-analysis workflow combining document processing, structured extraction, requirement matching, retrieval, and guided career interactions |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
@@ -40,27 +40,30 @@ I develop AI and machine-learning systems across **data preparation, model devel
 
 ## Selected Projects
 
-A focused selection of applied AI/ML projects covering **machine learning, computer vision, AI application engineering, and data-intensive ML systems**.
+A selection of applied AI projects covering computer vision, machine learning, retrieval-based applications, and data-intensive recommendation systems.
 
 ### Napta Agricultural AI Platform
 
-A collaborative agricultural AI platform combining computer vision and practical AI services to support crop disease analysis.
+A collaborative agricultural AI platform combining computer vision, agricultural data, and AI application integration.
 
-- Led the AI-focused development work, translating the agricultural problem into an applied computer-vision workflow.
-- Developed a crop disease detection component covering **12 crop disease profiles** using a YOLO-based object-detection approach.
-- Contributed to the surrounding AI application stack through **OpenCV, Albumentations, FastAPI, and Docker**.
-- Worked across data preparation, model development, evaluation, and AI-service integration.
+- Led the AI development workstream of the graduation project, translating agricultural requirements into three AI components covering plant-disease detection, harmful-insect detection, and pest classification.
+- Developed the plant-disease detection component across **12 crop disease profiles** and connected model outputs to the corresponding agricultural data.
+- Evaluated YOLO model variants from **v5 through v12**, comparing training configurations, validation results, inference behavior, and model stability.
+- Expanded the training data through additional collection, preprocessing, and augmentation, followed by iterative retraining and evaluation.
+- Used deployment and inference testing to compare candidate configurations under application runtime conditions before integration.
+- Integrated the AI workflow with **OpenCV, Albumentations, FastAPI, and Docker**, connecting model outputs with the application's agricultural knowledge and retrieval workflow.
 
-**Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker
+**Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker, RAG
 
 ### Financial Fraud Detection System
 
 A personal machine-learning project for detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
 
-- Analyzed the PaySim dataset with **6.36M transactions** and **8,213 fraud cases** (~**0.129%**).
-- Engineered behavior- and risk-oriented features from transaction timing, amount, sender activity, recipient activity, and transaction type.
-- Trained and combined **XGBoost, LightGBM, and CatBoost** using a weighted ensemble.
-- Achieved **0.9519 ROC-AUC on a chronological holdout of 1,272,524 transactions**.
+- Analyzed **6.36M PaySim transactions**, including **8,213 fraud cases** (~**0.129%**).
+- Engineered features from transaction timing, amounts, user activity, recipient activity, and transaction types.
+- Addressed class imbalance through downsampling and model-specific class-weighting strategies.
+- Trained **XGBoost, LightGBM, and CatBoost** models and combined them through a weighted ensemble.
+- Achieved **0.9519 ROC-AUC** on a chronological holdout containing **1,272,524 transactions**.
 
 **Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
 
@@ -68,11 +71,12 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 ### AI Resume Analyzer
 
-A collaborative AI application for resume analysis, job matching, retrieval, and guided career interactions.
+A collaborative AI application for resume analysis, job matching, retrieval, and career assistance.
 
-- Contributed to a workflow combining **document processing, structured extraction, requirement matching, retrieval, and retrieval-grounded AI responses**.
-- Structured job requirements into **required and preferred criteria** to support more explicit matching logic.
-- Worked across backend services, persistence, retrieval, and AI-driven application workflows.
+- Contributed to a workflow combining **document processing, structured extraction, deterministic requirement matching, retrieval, and AI-generated responses**.
+- Helped structure job requirements into **required and preferred criteria** to support explicit matching and skill-gap analysis.
+- Worked across **FastAPI services, SQLite persistence, retrieval components, and AI-driven application workflows**.
+- Contributed to separating **resume evidence, job requirements, and retrieved guidance** into distinct sources of context.
 
 **Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
 
@@ -83,8 +87,9 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 A collaborative engineering project for recommendation workflows over synthetic electronic-health-record data.
 
 - Processed synthetic **Synthea** data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
-- Implemented **ALS, TF-IDF content-based recommendation, and an XGBoost hybrid approach**, with Airflow orchestration and MLflow experiment tracking.
-- Exposed recommendations through a **Flask REST API and Streamlit interface** within a Docker Compose environment.
+- Implemented three recommendation approaches: **ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid approach**.
+- Integrated **Apache Airflow** for workflow orchestration and **MLflow** for experiment tracking and model lifecycle management.
+- Exposed recommendation results through a **Flask REST API and Streamlit dashboard** within a Docker Compose environment.
 
 > Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
 
@@ -97,8 +102,8 @@ A collaborative engineering project for recommendation workflows over synthetic 
 A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
 
 - Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
-- Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative visualization.
-- Used skip connections to preserve spatial information for pixel-level class prediction.
+- Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative result visualization.
+- Used U-Net skip connections to preserve spatial information for pixel-level prediction.
 - Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
 
 **Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
