@@ -4,7 +4,7 @@
 
 ### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I build applied AI and machine-learning systems across the lifecycle—from **data preparation and model development to evaluation, serving, and deployment**. My work spans **computer vision, NLP and retrieval-augmented generation, ML pipelines, and practical AI applications**, with a focus on **reproducibility, clear assumptions, and measurable model performance**.
+I build practical AI and machine-learning systems across **data preparation, model development, evaluation, and application delivery**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application engineering**, with a focus on **reproducibility, measurable evaluation, and practical implementation**.
 
 **Based in Benha, Egypt · Open to AI/ML opportunities across Egypt, Saudi Arabia, the UAE, and remote roles**
 
@@ -23,7 +23,7 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 - **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
 - **AI Engineering:** model integration, API development, serving, containerization, and reproducible AI workflows.
 
-## Selected Evidence
+## Key Results
 
 | Project Area | Evidence |
 | --- | --- |
@@ -32,11 +32,22 @@ I build applied AI and machine-learning systems across the lifecycle—from **da
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
 
-Metrics are labeled with their actual evaluation split. Validation and chronological-holdout results are reported as project-level experimental evidence—not as production performance or a substitute for an untouched external test set. Collaborative projects are not presented as individually owned unless the repository evidence establishes individual ownership.
+> Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
 
 ## Selected Projects
 
-A focused selection of applied AI/ML work spanning machine learning, AI application engineering, distributed ML/data systems, and computer vision.
+A focused selection of applied AI/ML projects covering **machine learning, computer vision, AI application engineering, and data-intensive ML systems**.
+
+### Napta Agricultural AI Platform
+
+A collaborative agricultural AI platform combining computer vision and practical AI services to support crop disease analysis.
+
+- Contributed to the AI-focused development work, translating the agricultural problem into an applied computer-vision workflow.
+- Developed a crop disease detection component covering **12 disease profiles** using a YOLO-based object-detection approach.
+- Contributed to the surrounding AI application stack through **OpenCV, Albumentations, FastAPI, and Docker**.
+- Worked across data preparation, model development, evaluation, and AI-service integration.
+
+**Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker
 
 ### Financial Fraud Detection System
 
@@ -53,28 +64,27 @@ A personal machine-learning project for detecting rare fraudulent transactions u
 
 ### AI Resume Analyzer
 
-A collaborative AI application focused on resume and job-document workflows, structured evidence extraction, requirement matching, retrieval, and guided career interactions.
+A collaborative AI application for resume analysis, job matching, retrieval, and guided career interactions.
 
-- Combines document ingestion, structured extraction, requirement matching, retrieval, and controlled AI responses in an application workflow.
-- Separates required and preferred job requirements to support more explicit and interpretable matching.
-- Connects backend services, data persistence, retrieval, and guided career interactions.
+- Contributed to a workflow combining **document processing, structured extraction, requirement matching, retrieval, and controlled AI responses**.
+- Structured job requirements into **required and preferred criteria** to support more explicit matching logic.
+- Worked across backend services, persistence, retrieval, and AI-driven application workflows.
 
-**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, information retrieval
+**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
 
 [View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
 
 ### Healthcare Recommendation System
 
-A collaborative engineering project for building recommendation workflows over synthetic electronic-health-record data.
+A collaborative engineering project for recommendation workflows over synthetic electronic-health-record data.
 
-- Processes synthetic **Synthea** data using **Apache Spark 3.5.3**, Hadoop HDFS, and ClickHouse.
-- Implements multiple recommendation approaches, including **Spark ALS, TF-IDF content-based recommendation, and an XGBoost hybrid model**.
-- Orchestrates ingestion, processing, training, evaluation, and model-serving workflows with **Apache Airflow** and tracks experiments with **MLflow**.
-- Exposes recommendations through a **Flask REST API** and Streamlit interface within a Docker Compose environment.
+- Processed synthetic **Synthea** data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
+- Implemented **ALS, TF-IDF content-based recommendation, and an XGBoost hybrid approach**, with Airflow orchestration and MLflow experiment tracking.
+- Exposed recommendations through a **Flask REST API and Streamlit interface** within a Docker Compose environment.
 
-> Uses synthetic data and is presented as an engineering prototype, not as clinically validated medical decision support.
+> Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
 
-**Technologies:** Python, Apache Spark, PySpark, Hadoop HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, Docker Compose
+**Technologies:** Apache Spark, PySpark, Hadoop HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, Docker Compose
 
 [View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
 
@@ -140,78 +150,45 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ## Technical Capabilities
 
-### Programming, Data & Analytics
+### Machine Learning & Data Science
 
-Data Acquisition → Data Quality & Validation → Data Cleaning → Data Transformation → Exploratory Data Analysis → Feature Engineering → Analytical Modeling
+`Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
 
-**Capabilities:** `Data Processing` · `Statistical Analysis` · `Feature Engineering` · `Feature Selection` · `Data Validation` · `Analytical Modeling`
+### Deep Learning & Computer Vision
 
-### Machine Learning
-
-Problem Formulation → Data & Feature Strategy → Model Selection → Model Benchmarking → Imbalance Handling → Validation Strategy → Hyperparameter Optimization → Model Evaluation → Error Analysis
-
-**Capabilities:** `Supervised Learning` · `Classification` · `Gradient-Boosted Modeling` · `Ensemble Learning` · `Imbalanced Learning` · `Model Selection` · `Cross-validation` · `Hyperparameter Optimization` · `Error Analysis`
-
-### Deep Learning
-
-Problem Definition → Architecture Design → Representation Learning → Training Strategy → Validation → Inference → Performance Evaluation
-
-**Capabilities:** `Neural Network Modeling` · `CNN Architectures` · `Transfer Learning` · `Training & Validation` · `Inference Pipelines`
-
-### Computer Vision
-
-Image & Label Preparation → Preprocessing → Augmentation → Representation Learning → Detection / Classification / Segmentation → Inference
-
-**Capabilities:** `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Computer Vision Inference`
+`Neural Network Modeling` · `CNN Architectures` · `Transfer Learning` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Inference Pipelines`
 
 ### NLP, Generative AI & Retrieval
 
-Text Processing → Representation Learning → Embedding Generation → Semantic Retrieval → Vector Search → RAG → Document Question Answering → LLM Integration
-
-**Capabilities:** `Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `Information Retrieval` · `RAG Systems` · `Document Question Answering` · `LLM Applications`
+`Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `RAG Systems` · `Document Question Answering` · `LLM Applications`
 
 ### Agentic AI
 
-Task Understanding → Task Decomposition → Context & Retrieval → Tool Interaction → Multi-step Execution → Result Synthesis
+`Agent Workflows` · `Task Decomposition` · `Tool Calling` · `Context & Retrieval` · `Multi-step Execution`
 
-**Capabilities:** `Agent Workflows` · `Task Decomposition` · `Tool Calling` · `Context & Retrieval` · `Multi-step Execution`
+### AI Engineering
 
-### AI Engineering & Application Development
+`AI System Design` · `Model & Retrieval Integration` · `API Engineering` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
 
-AI System Design → Model & Retrieval Integration → Backend Architecture → API Design → Serving → Application Integration → Containerization
+### Data, MLOps & Cloud
 
-**Capabilities:** `AI Application Architecture` · `Model & Retrieval Integration` · `API Engineering` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
-
-### Data Engineering, MLOps & Cloud
-
-Pipeline Design → Data Ingestion → Distributed Processing → Workflow Orchestration → Analytical Storage → Experiment Tracking → Model Lifecycle → Reproducible ML Workflows
-
-**Capabilities:** `Distributed Data Processing` · `Data Pipeline Engineering` · `Workflow Orchestration` · `Analytical Data Systems` · `Experiment Tracking` · `Model Lifecycle Management` · `Reproducible ML Systems` · `Cloud ML Workflows`
+`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Analytical Data Systems` · `Experiment Tracking` · `Model Lifecycle Management` · `Cloud ML Workflows`
 
 ## Education
 
 **B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
 *July 2025 · Graduation Project: Napta Agricultural AI Platform · Project Grade: Excellent (A+)*
 
-
-## Engineering Principles
-
-- **Measure what matters:** align evaluation metrics with the problem, data characteristics, and real-world objective rather than relying on a single headline score.
-- **Protect evaluation integrity:** design data splits carefully, prevent leakage, and distinguish training, validation, holdout, and test results.
-- **Make results reproducible:** connect reported claims to code, experiment outputs, configurations, and traceable evaluation procedures.
-- **Engineer beyond the model:** treat data pipelines, integration, serving, reliability, and maintainability as part of the AI system.
-- **Communicate limitations:** state assumptions, trade-offs, failure modes, and unverified areas clearly rather than overstating results.
-
 ## Currently Focused On
 
-- Building practical AI systems that connect **data, models, retrieval, APIs, and deployment**.
-- Advancing **Generative AI, RAG, and Agentic AI** through retrieval-driven workflows and tool interaction.
-- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, cloud ML tooling, and containerized serving.
+- Building practical AI systems that connect **models, retrieval, APIs, and deployment**.
+- Advancing **Generative AI, RAG, and Agentic AI** through application-level workflows and tool interaction.
+- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized serving.
 
 ---
 
 <div align="center">
 
-**Open to collaborating on applied AI, machine learning, computer vision, Generative AI, MLOps, and data-intensive AI systems.**
+**Open to collaborating on practical AI, machine learning, Generative AI, and computer-vision projects.**
 
 </div>
