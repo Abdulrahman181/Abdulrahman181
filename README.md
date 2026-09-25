@@ -2,9 +2,9 @@
 
 # Abdulrahman Ahmed
 
-### AI/ML Engineer · Data Scientist
+### AI Engineer · Machine Learning Engineer · Data Scientist
 
-I develop applied AI and machine-learning systems spanning **model development, evaluation, retrieval, and application integration**. My work covers **machine learning, computer vision, NLP, RAG, and AI engineering**, with emphasis on **measurable evaluation, reproducibility, and deployment**.
+I build practical AI and machine-learning systems across **data preparation, model development, evaluation, and application deployment**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application engineering**, with a focus on **reproducibility, measurable evaluation, and practical implementation**.
 
 **Based in Benha, Egypt · Open to AI/ML opportunities across Egypt, Saudi Arabia, the UAE, and remote roles**
 
@@ -31,7 +31,7 @@ I develop applied AI and machine-learning systems spanning **model development, 
 | Agricultural AI | Computer-vision workflow covering **12 crop disease profiles** within the Napta agricultural AI platform |
 | AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions |
 | Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
-| Semantic segmentation | Validation mIoU and Dice results reported in the project evaluation notebook for an 8-class Cityscapes U-Net experiment |
+| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
 
 > Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
 
@@ -73,6 +73,7 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 
 **Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
 
+[View the project →](https://github.com/AnasOsama2/AI-Resume-Analyzer)
 
 ### Healthcare Recommendation System
 
@@ -95,7 +96,7 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 - Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
 - Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative visualization.
 - Used skip connections to preserve spatial information for pixel-level class prediction.
-- Reported validation mIoU and Dice results in the saved notebook evaluation output; no independent test-set result is claimed.
+- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
 
 **Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
 
@@ -105,9 +106,9 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **AI Trainer — MFC** | Aug 2026 – Present
 
-- Deliver structured Artificial Intelligence training progressing from foundational concepts to advanced topics and practical implementation.
+- Deliver structured Artificial Intelligence training progressing from fundamental concepts to advanced topics and practical implementation.
 - Lead hands-on problem solving and project-based development, helping students translate AI concepts into working solutions.
-- Guide learners through practical AI development workflows, from experimentation to application-level implementation.
+- Guide learners through structured AI development workflows and practical application of core techniques.
 
 **Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
@@ -132,11 +133,11 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
 
+**Agentic AI Track** | ITI | 3-Month Program
+
 **HCIA-AI V3.5 & V4.0** | Huawei Academy
 
 **HCIA-Big Data V3.5 & V4.0** | Huawei Academy
-
-**Agentic AI Track** | ITI | 3-Month Program
 
 **Artificial Intelligence Training** | NTI | 120 Hours
 
@@ -144,9 +145,9 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Computer Vision Training** | NTI | 72 Hours
 
-**Agentic AI Track** | Digital Hub | 5-Week Program
-
 **Egyptian Talent Academy — AI Track** | NTI & Huawei
+
+**Agentic AI Track** | Digital Hub | 5-Week Program
 
 ## Technical Capabilities
 
@@ -172,9 +173,23 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ### Data, MLOps & Cloud
 
-`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Experiment Tracking` · `Model Registration` · `Apache Spark` · `Apache Airflow` · `MLflow` · `Azure Machine Learning` · `Docker`
+`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Analytical Data Systems` · `Experiment Tracking` · `Model Lifecycle Management` · `Cloud ML Workflows`
 
 ## Education
 
 **B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
 *July 2025 · Graduation Project: Napta Agricultural AI Platform*
+
+## Currently Focused On
+
+- Building practical AI systems that connect **models, retrieval, APIs, and deployment**.
+- Advancing **Generative AI, RAG, and Agentic AI** through application-level workflows and tool interaction.
+- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized serving.
+
+---
+
+<div align="center">
+
+**Open to collaborating on practical AI, machine learning, Generative AI, and computer-vision projects.**
+
+</div>
