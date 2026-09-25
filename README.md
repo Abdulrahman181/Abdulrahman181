@@ -31,10 +31,10 @@ I develop AI and machine-learning systems across **data preparation, model devel
 | Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agricultural AI | Computer-vision workflow covering **12 crop disease profiles** within the Napta agricultural AI platform |
-| AI application engineering | Collaborative resume-analysis workflow covering document processing, structured evidence extraction, requirement matching, retrieval, and guided career interactions |
-| Distributed ML/data systems | Synthetic Synthea EHR workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, multiple recommendation approaches, and API/dashboard serving |
-| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** on an 8-class Cityscapes U-Net experiment |
+| Agricultural AI | YOLO-based crop disease detection workflow covering **12 disease profiles** within the Napta agricultural AI platform |
+| AI application engineering | Collaborative resume-analysis workflow combining document processing, structured extraction, requirement matching, retrieval, and guided career interactions |
+| Distributed ML/data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
+| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
 
 > Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
 
