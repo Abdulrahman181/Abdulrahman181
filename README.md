@@ -108,12 +108,13 @@ A collaborative engineering project for recommendation workflows over synthetic 
 
 A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
 
-- Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
-- Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative result visualization.
-- Used U-Net skip connections to preserve spatial information for pixel-level prediction.
-- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
+- Trained a **U-Net** model on the **Cityscapes** dataset across **8 semantic classes**.
+- Implemented image and mask preprocessing, class-label conversion, training, validation, and inference workflows.
+- Used U-Net skip connections to preserve spatial information for pixel-level segmentation.
+- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the evaluation output.
+- Included qualitative visualization of segmentation predictions to inspect model behavior across urban scenes.
 
-**Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
+**Technologies:** Python · TensorFlow/Keras · U-Net · Cityscapes · NumPy · Matplotlib · Jupyter
 
 [View the project →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
 
