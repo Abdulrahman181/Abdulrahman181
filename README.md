@@ -2,11 +2,11 @@
 
 # Abdulrahman Ahmed
 
-### AI Engineer · Machine Learning Engineer · Data Scientist
+### AI Engineer · Machine Learning Engineer
 
 **Generative AI · RAG · Agentic AI · Computer Vision**
 
-I develop AI and machine-learning systems across **data preparation, model development, evaluation, and application integration**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application workflows**.
+I build AI systems across **model development, evaluation, retrieval, and application integration**. My work spans **machine learning, computer vision, NLP, Generative AI, RAG, and agentic workflows**, with a focus on turning experiments into **usable AI applications**.
 
 **Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, across the Gulf, and remotely**
 
