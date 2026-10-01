@@ -2,204 +2,151 @@
 
 # Abdulrahman Ahmed
 
-### AI Engineer · Machine Learning Engineer · Data Scientist
+### Mid-level AI/ML Engineer · GenAI/RAG · Computer Vision · Production AI
 
-**Generative AI · RAG · Agentic AI · Computer Vision**
-
-I develop AI and machine-learning systems across **data preparation, model development, evaluation, and application integration**. My work spans **machine learning, computer vision, NLP, retrieval-augmented generation, and AI application workflows**.
-
-**Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, across the Gulf, and remotely**
+I design and deliver practical AI systems—from data preparation and model evaluation to APIs, retrieval workflows, and containerized deployment.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rahman-ahmed-711565255)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmannassar202@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrahman181)
 
+**Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, the Gulf, and remotely**
+
 </div>
 
 ---
 
-## Professional Focus
+## What I Do
 
-- **Machine Learning:** model development, feature engineering, imbalanced learning, model selection, validation, and evaluation.
-- **Computer Vision:** object detection, semantic segmentation, image preprocessing, augmentation, and inference.
-- **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
-- **Agentic AI:** agent workflows, task decomposition, tool calling, context retrieval, and multi-step execution.
-- **AI Engineering:** model integration, API development, model serving, application integration, and containerization.
+I build AI products that connect **models, data, retrieval, APIs, and deployment**. My strongest work sits at the intersection of:
 
-## Selected Evidence
+- **Applied Machine Learning:** feature engineering, imbalanced learning, model selection, validation, ensembles, and error analysis.
+- **Generative AI & RAG:** embeddings, semantic retrieval, document processing, grounded question answering, and context-aware application workflows.
+- **Computer Vision:** classification, object detection, semantic segmentation, augmentation, inference pipelines, and deployment testing.
+- **AI Engineering:** FastAPI services, model integration, containerization, experiment tracking, orchestration, and reproducible workflows.
 
-| Project Area | Evidence |
+## Selected Engineering Evidence
+
+| Area | Evidence |
 | --- | --- |
-| Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agricultural AI | Three computer-vision models for plant disease, harmful weeds, and agricultural pests, with database-backed agricultural information and a RAG-based application layer |
-| AI application engineering | Collaborative resume-analysis workflow combining document processing, structured extraction, requirement matching, retrieval, and guided career interactions |
-| Distributed ML/data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
-| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
+| **Fraud detection** | 0.9519 ROC-AUC on a chronological PaySim holdout containing 1,272,524 transactions; severe class imbalance with 8,213 fraud cases in 6.36M records. |
+| **Agricultural AI** | Led the AI workstream for a graduation platform combining three computer-vision models, database-backed domain knowledge, FastAPI, Docker, and a RAG application layer. |
+| **AI application engineering** | Contributed to a resume-analysis workflow covering document processing, structured extraction, deterministic requirement matching, retrieval, and AI-assisted responses. |
+| **Distributed ML systems** | Worked on a synthetic EHR recommendation workflow using Spark, HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, and Docker Compose. |
+| **Semantic segmentation** | Implemented an 8-class Cityscapes U-Net pipeline with preprocessing, training, validation, inference, and qualitative visualization; recorded 0.5387 validation mIoU and 0.7002 Dice. |
 
-> Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
+> Metrics are reported for the stated evaluation splits and should not be interpreted as production performance without further validation.
 
-## Selected Projects
-
-A selection of applied AI projects covering computer vision, machine learning, retrieval-based applications, and data-intensive recommendation systems.
-
-### Napta Agricultural AI Platform
-
-A collaborative agricultural AI platform where I led the **AI development workstream**, combining three computer-vision models, database-backed agricultural knowledge, and a RAG-based application layer.
-
-- Led the AI workstream of the graduation project, translating agricultural requirements into three computer-vision models and the supporting AI application workflow.
-- Developed a plant-disease detection model covering **12 crop disease profiles**, with its outputs connected to a database containing related agricultural information and treatment guidance.
-- Developed a harmful-weed detection and classification model, connected to a database containing the corresponding weed information.
-- Developed an agricultural-pest detection and classification model, connected to a database containing the corresponding pest information.
-- Evaluated YOLO model variants from **v5 through v12** across the computer-vision models, comparing training configurations, validation results, inference behavior, and model stability.
-- Expanded the training data through additional collection, preprocessing, and augmentation, followed by iterative retraining and evaluation.
-- Used deployment and inference testing to compare candidate configurations under application runtime conditions before integration.
-- Integrated the models with **OpenCV, Albumentations, FastAPI, and Docker**, and connected their database-backed outputs to the project's **RAG layer** for contextual agricultural assistance.
-
-**Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker, RAG
+## Featured Projects
 
 ### Financial Fraud Detection System
 
-A personal machine-learning project for detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
+A machine-learning system for rare-event transaction fraud detection under chronological evaluation constraints.
 
-- Analyzed **6.36M PaySim transactions**, including **8,213 fraud cases** (~**0.129%**).
 - Engineered features from transaction timing, amounts, user activity, recipient activity, and transaction types.
-- Addressed class imbalance through downsampling and model-specific class-weighting strategies.
-- Trained **XGBoost, LightGBM, and CatBoost** models and combined them through a weighted ensemble.
-- Achieved **0.9519 ROC-AUC** on a chronological holdout containing **1,272,524 transactions**.
+- Compared XGBoost, LightGBM, and CatBoost models and combined them through a weighted ensemble.
+- Evaluated on a time-aware holdout rather than relying only on a random split.
 
-**Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
+**Stack:** Python · Pandas · scikit-learn · XGBoost · LightGBM · CatBoost
 
-[View the project →](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System)
+[View repository →](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System)
+
+### Napta Agricultural AI Platform
+
+A collaborative agricultural AI platform where I led the AI development workstream.
+
+- Developed models for plant diseases, harmful weeds, and agricultural pests.
+- Connected model outputs to database-backed agricultural information and a RAG-based assistance layer.
+- Evaluated YOLO variants, expanded training data, and tested candidate models under application inference conditions.
+- Integrated the AI workflow with OpenCV, Albumentations, FastAPI, and Docker.
+
+**Stack:** Python · PyTorch · YOLO · OpenCV · Albumentations · FastAPI · Docker · RAG
 
 ### AI Resume Analyzer
 
-A collaborative AI application for resume analysis, job matching, retrieval, and career assistance.
+A collaborative AI application for resume analysis, job matching, retrieval, and guided career assistance.
 
-- Contributed to a workflow combining **document processing, structured extraction, deterministic requirement matching, retrieval, and AI-assisted responses**.
-- Helped structure job requirements into **required and preferred criteria** to support explicit matching and skill-gap analysis.
-- Worked across **FastAPI services, SQLite persistence, retrieval components, and AI-driven application workflows**.
-- Contributed to separating **resume evidence, job requirements, and retrieved guidance** into distinct sources of context.
+- Combined document processing, structured extraction, requirement matching, retrieval, and AI-assisted responses.
+- Separated resume evidence, job requirements, and retrieved guidance into distinct context sources.
+- Worked across FastAPI services, SQLite persistence, retrieval components, and application workflows.
 
-**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
+**Stack:** FastAPI · SQLite · SQLAlchemy · RAG · Information Retrieval · HTML/CSS · JavaScript
 
-[View the project →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
+[View repository →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
 
-### Healthcare Recommendation System
+### Sales & Demand Forecasting
 
-A collaborative engineering project for recommendation workflows over synthetic electronic-health-record data.
+A forecasting project comparing traditional ML, deep learning, and time-series approaches for retail sales and demand prediction across more than 73,000 daily records.
 
-- Processed synthetic **Synthea** data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
-- Implemented three recommendation approaches: **ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid approach**.
-- Integrated **Apache Airflow** for workflow orchestration and **MLflow** for experiment tracking and model lifecycle management.
-- Exposed recommendation results through a **Flask REST API and Streamlit dashboard** within a Docker Compose environment.
+- Compared tree-based models, neural architectures, ARIMA/SARIMAX, and Prophet.
+- Included application, source, notebook, visualization, and deployment-oriented components.
+- Documented metrics, model comparisons, external factors, and forecasting limitations.
 
-> Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
+**Stack:** Python · scikit-learn · XGBoost · TensorFlow/Keras · Prophet · statsmodels
 
-**Technologies:** Apache Spark, PySpark, Hadoop HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, Docker Compose
+[View repository →](https://github.com/Abdulrahman181/sales-forecasting-and-demand-prediction)
 
-[View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
+### Urban Scene Semantic Segmentation
 
-### Urban Scene Semantic Segmentation with U-Net
+An 8-class Cityscapes segmentation pipeline using a U-Net encoder-decoder architecture.
 
-A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
+- Implemented image-mask preprocessing, label conversion, training, validation, inference, and qualitative visualization.
+- Recorded 0.5387 validation mIoU and 0.7002 validation Dice on the saved notebook evaluation output.
 
-- Trained a U-Net model on the **Cityscapes** dataset across **8 semantic classes**.
-- Implemented image-mask preprocessing, class-label conversion, training, validation, inference, and qualitative result visualization.
-- Used U-Net skip connections to preserve spatial information for pixel-level prediction.
-- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the saved notebook evaluation output; no independent test-set result is claimed.
+**Stack:** Python · TensorFlow/Keras · U-Net · Cityscapes · NumPy · Matplotlib
 
-**Technologies:** Python, TensorFlow/Keras, U-Net, Cityscapes, NumPy, Matplotlib, Jupyter
-
-[View the project →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
-
-## Professional Experience
-
-**AI Trainer — MFC** | Aug 2026 – Present
-
-- Deliver structured Artificial Intelligence training from foundational concepts through advanced topics, combining technical instruction with hands-on implementation.
-- Lead practical exercises and project-based development, helping learners translate AI concepts into working solutions.
-- Guide learners through AI development workflows, from experimentation and problem solving to implementation in practical projects.
-
-**Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
-
-- Deliver practical Data Science training covering **data analysis, SQL, Machine Learning, and project development**.
-- Guide learners through analytical problem solving and hands-on implementation across structured projects.
-- Support projects across **data preparation, exploratory analysis, model development, evaluation, and implementation**.
-
-## Technical Internships
-
-**AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
-
-- Contributed to AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data preparation, model experimentation, and application integration.
-- Used **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
-
-**Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
-
-- Collected, cleaned, transformed, and structured data from multiple web sources using **web scraping** for analysis and machine-learning workflows.
-- Contributed to **recommendation-system and chatbot solutions**, including backend and API integration.
-- Supported the workflow from data acquisition and preparation through model development and application integration.
-
-## Certifications & Professional Training
-
-**Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
-
-**HCIA-AI V3.5 & V4.0** | Huawei Academy
-
-**HCIA-Big Data V3.5 & V4.0** | Huawei Academy
-
-**Agentic AI Track** | ITI | 3-Month Program
-
-**Artificial Intelligence Training** | NTI | 120 Hours
-
-**Machine Learning Training** | NTI | 72 Hours
-
-**Computer Vision Training** | NTI | 72 Hours
-
-**Agentic AI Track** | Digital Hub | 5-Week Program
-
-**Egyptian Talent Academy — AI Track** | NTI & Huawei
+[View repository →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
 
 ## Technical Capabilities
 
-### Machine Learning & Data Science
+**Machine Learning:** Python · Pandas · NumPy · scikit-learn · XGBoost · LightGBM · CatBoost · feature engineering · imbalanced learning · ensemble methods · model validation
 
-`Data Analysis` · `SQL` · `Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Model Validation` · `Hyperparameter Optimization` · `Model Evaluation`
+**Deep Learning & Computer Vision:** PyTorch · TensorFlow/Keras · CNNs · YOLO · image classification · object detection · semantic segmentation · OpenCV · Albumentations
 
-### Deep Learning & Computer Vision
+**Generative AI & Retrieval:** embeddings · vector search · semantic retrieval · RAG · document question answering · structured extraction · LLM application workflows · tool calling
 
-`Neural Network Modeling` · `CNN Architectures` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Inference Pipelines`
+**AI Engineering & MLOps:** FastAPI · Flask · Streamlit · Docker · Docker Compose · MLflow · Apache Airflow · model serving · experiment tracking · API integration
 
-### NLP, Generative AI & Retrieval
+**Data & Cloud:** SQL · SQLite · Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Azure Machine Learning · Azure Blob Storage · web scraping
 
-`Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `RAG Systems` · `Document Question Answering` · `LLM Applications`
+## Experience
 
-### Agentic AI
+**AI Trainer — MFC** | Aug 2026 – Present
 
-`Agent Workflows` · `Task Decomposition` · `Tool Calling` · `Context & Retrieval` · `Multi-step Execution`
+- Deliver structured AI training from foundational concepts through advanced, hands-on implementation.
+- Lead project-based exercises that help learners turn AI concepts into working solutions.
 
-### AI Engineering
+**Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-`AI Application Integration` · `Model & Retrieval Integration` · `API Development` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
+- Deliver practical training across data analysis, SQL, machine learning, and project development.
+- Guide learners through data preparation, exploratory analysis, model development, evaluation, and implementation.
 
-### Data, MLOps & Cloud
+**AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
 
-`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Data Processing & Analytical Systems` · `Experiment Tracking` · `Model Registration` · `Cloud ML Workflows` · `Containerized ML Workflows`
+- Contributed to Computer Vision, NLP, and Machine Learning work involving experimentation, data preparation, and application integration.
+- Used Azure Machine Learning for experiment tracking and model registration, with Azure Blob Storage for data handling.
 
-## Education
+**Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
 
-**B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
-*July 2025 · Graduation Project: Napta Agricultural AI Platform*
+- Built data collection and preparation workflows using web scraping for analytics and machine-learning use cases.
+- Contributed to recommendation-system and chatbot solutions, including backend and API integration.
 
-## Currently Focused On
+## Education & Training
 
-- Building practical AI systems that connect **models, retrieval, APIs, and deployment**.
-- Advancing **Generative AI, RAG, and Agentic AI** through application-level workflows and tool interaction.
-- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized serving.
+**B.Sc. in Computer Science and Artificial Intelligence — Benha University** | July 2025
+
+Additional training includes Digital Egypt Pioneers Program (AI & Data Science), ITI Agentic AI, HCIA-AI, HCIA-Big Data, and NTI training in AI, Machine Learning, and Computer Vision.
+
+## Current Focus
+
+- Production-oriented **GenAI and RAG** systems with reliable retrieval and grounded responses.
+- **Computer Vision** pipelines that move from experimentation to API-based inference.
+- Reproducible **MLOps and AI delivery** using tracking, orchestration, containers, and evaluation.
 
 ---
 
 <div align="center">
 
-**Open to collaborating on practical AI, machine learning, Generative AI, and computer-vision projects.**
+**Open to collaborating on practical AI, machine learning, Generative AI, and computer-vision systems.**
 
 </div>
