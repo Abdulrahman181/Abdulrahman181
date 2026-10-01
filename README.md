@@ -49,18 +49,16 @@ A selection of applied AI projects covering computer vision, machine learning, r
 
 ### Napta Agricultural AI Platform
 
-A collaborative agricultural AI platform where I led the **AI development workstream**, combining three computer-vision models, database-backed agricultural knowledge, and a RAG-based application layer.
+A collaborative graduation project applying **computer vision and retrieval-augmented AI** to practical agricultural problems.
 
-- Led the AI workstream of the graduation project, translating agricultural requirements into three computer-vision models and the supporting AI application workflow.
-- Developed a plant-disease detection model covering **12 crop disease profiles**, with its outputs connected to a database containing related agricultural information and treatment guidance.
-- Developed a harmful-weed detection and classification model, connected to a database containing the corresponding weed information.
-- Developed an agricultural-pest detection and classification model, connected to a database containing the corresponding pest information.
-- Evaluated YOLO model variants from **v5 through v12** across the computer-vision models, comparing training configurations, validation results, inference behavior, and model stability.
-- Expanded the training data through additional collection, preprocessing, and augmentation, followed by iterative retraining and evaluation.
-- Used deployment and inference testing to compare candidate configurations under application runtime conditions before integration.
-- Integrated the models with **OpenCV, Albumentations, FastAPI, and Docker**, and connected their database-backed outputs to the project's **RAG layer** for contextual agricultural assistance.
+- Led the **AI development workstream**, owning the computer-vision solutions and their integration into the wider AI application.
+- Developed and evaluated workflows for **plant disease detection, agricultural pest detection and classification, and harmful weed detection/classification**.
+- Built a plant-disease detection workflow covering **12 crop disease profiles**, with predictions connected to database-backed agricultural knowledge.
+- Prepared and augmented image data, implemented preprocessing and inference workflows, and iterated across model configurations and YOLO variants.
+- Integrated the vision components with **OpenCV, Albumentations, FastAPI, and Docker** for application-level inference.
+- Connected model predictions to the project's agricultural knowledge and **RAG-based assistance workflow**, enabling contextual user-facing responses.
 
-**Technologies:** Python, PyTorch, YOLO, OpenCV, Albumentations, FastAPI, Docker, RAG
+**Technologies:** Python · PyTorch · YOLO · OpenCV · Albumentations · FastAPI · Docker · RAG
 
 ### Financial Fraud Detection System
 
