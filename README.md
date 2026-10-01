@@ -88,6 +88,22 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 
 [View the project →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
 
+### CorporateMind AI — Multi-Agent Enterprise Assistant
+
+A multi-agent HR and IT assistant designed around enterprise-style employee workflows using a stateful graph architecture.
+
+- Built a **multi-agent workflow** using **LangGraph**, with a supervisor responsible for intent classification and routing.
+- Implemented specialized **HR and IT agent nodes** connected through conditional graph transitions.
+- Used a shared **AgentState** to maintain conversation messages and routing information across the workflow.
+- Connected the HR workflow to policy retrieval so responses could be grounded in relevant internal documents.
+- Applied **Llama-3-8B-Instruct** with **4-bit quantization** for local model inference in GPU-based environments.
+- Implemented output refinement to separate internal routing tokens from the final user-facing response.
+- Tested the workflow in **Kaggle/Colab GPU environments** using representative HR and IT queries.
+
+**Technologies:** Python · LangChain · LangGraph · Llama-3 · BitsAndBytes · Accelerate
+
+[View the project →](https://github.com/Abdulrahman181/HR-Policy-Question-Answering-System-RAG)
+
 ### Healthcare Recommendation System
 
 A collaborative engineering project for recommendation workflows over synthetic electronic health record data.
