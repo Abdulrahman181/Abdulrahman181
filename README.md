@@ -90,16 +90,17 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 
 ### Healthcare Recommendation System
 
-A collaborative engineering project for recommendation workflows over synthetic electronic-health-record data.
+A collaborative engineering project for recommendation workflows over synthetic electronic health record data.
 
-- Processed synthetic **Synthea** data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
-- Implemented three recommendation approaches: **ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid approach**.
+- Processed synthetic **Synthea** electronic health record data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
+- Implemented and evaluated three recommendation approaches: **ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid approach**.
 - Integrated **Apache Airflow** for workflow orchestration and **MLflow** for experiment tracking and model lifecycle management.
-- Exposed recommendation results through a **Flask REST API and Streamlit dashboard** within a Docker Compose environment.
+- Exposed recommendation results through a **Flask REST API and Streamlit dashboard**.
+- Containerized the application workflow using **Docker Compose** for reproducible local execution.
 
 > Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
 
-**Technologies:** Apache Spark, PySpark, Hadoop HDFS, ClickHouse, Airflow, MLflow, Flask, Streamlit, Docker Compose
+**Technologies:** Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Airflow · MLflow · Flask · Streamlit · Docker Compose
 
 [View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
 
