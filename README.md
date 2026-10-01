@@ -138,15 +138,15 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **AI Trainer — MFC** | Aug 2026 – Present
 
-- Deliver structured Artificial Intelligence training from foundational concepts through advanced topics, combining technical instruction with hands-on implementation.
-- Lead practical exercises and project-based development, helping learners translate AI concepts into working solutions.
-- Guide learners through AI development workflows, from experimentation and problem solving to implementation in practical projects.
+- Deliver structured AI training from **foundational concepts through advanced topics**, combining technical explanation with practical implementation.
+- Lead hands-on exercises and project-based development across machine-learning workflows, model experimentation, evaluation, and AI application concepts.
+- Review learner implementations and guide problem solving, experimentation, and iterative development from concept to working solution.
 
 **Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
 
-- Deliver practical Data Science training covering **data analysis, SQL, Machine Learning, and project development**.
-- Guide learners through analytical problem solving and hands-on implementation across structured projects.
-- Support projects across **data preparation, exploratory analysis, model development, evaluation, and implementation**.
+- Deliver practical training across **Data Science, data analysis, SQL, Machine Learning, and project development**.
+- Guide learners through the workflow from data preparation and exploratory analysis to model development, evaluation, and implementation.
+- Support project-based learning through technical explanation, implementation guidance, and structured problem solving.
 
 ## Technical Internships
 
