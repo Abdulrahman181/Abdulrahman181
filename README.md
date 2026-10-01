@@ -186,27 +186,27 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ### Machine Learning & Data Science
 
-`Data Analysis` · `SQL` · `Model Development` · `Feature Engineering` · `Model Selection` · `Ensemble Learning` · `Imbalanced Learning` · `Model Validation` · `Hyperparameter Optimization` · `Model Evaluation`
+`Data Preparation` · `Feature Engineering` · `Supervised Learning` · `Ensemble Learning` · `Imbalanced Learning` · `Model Selection` · `Hyperparameter Optimization` · `Validation & Evaluation`
 
 ### Deep Learning & Computer Vision
 
-`Neural Network Modeling` · `CNN Architectures` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Inference Pipelines`
+`Neural Network Modeling` · `CNN Architectures` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Inference Workflows`
 
 ### NLP, Generative AI & Retrieval
 
-`Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `RAG Systems` · `Document Question Answering` · `LLM Applications`
+`Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `RAG Systems` · `Document Question Answering` · `LLM Application Workflows`
 
 ### Agentic AI
 
-`Agent Workflows` · `Task Decomposition` · `Tool Calling` · `Context & Retrieval` · `Multi-step Execution`
+`Agent Workflows` · `Task Decomposition` · `Intent Routing` · `Tool Calling` · `Stateful Orchestration` · `Multi-step Execution`
 
 ### AI Engineering
 
-`AI Application Integration` · `Model & Retrieval Integration` · `API Development` · `Model Serving` · `Document Processing` · `Containerized AI Systems`
+`AI Application Integration` · `Model & Retrieval Integration` · `API Development` · `Document Processing` · `Application Workflows` · `Testing` · `Containerized AI Applications`
 
 ### Data, MLOps & Cloud
 
-`Data Pipeline Engineering` · `Distributed Data Processing` · `Workflow Orchestration` · `Data Processing & Analytical Systems` · `Experiment Tracking` · `Model Registration` · `Cloud ML Workflows` · `Containerized ML Workflows`
+`Data Pipeline Workflows` · `Distributed Data Processing` · `Workflow Orchestration` · `Experiment Tracking` · `Model Registration` · `Cloud ML Workflows` · `Containerized ML Workflows`
 
 ## Education
 
