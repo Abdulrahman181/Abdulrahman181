@@ -215,9 +215,9 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 ## Currently Focused On
 
-- Building practical AI systems that connect **models, retrieval, APIs, and deployment**.
-- Advancing **Generative AI, RAG, and Agentic AI** through application-level workflows and tool interaction.
-- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized serving.
+- Building practical AI systems that connect **models, retrieval, APIs, and application workflows**.
+- Advancing **Generative AI, RAG, and Agentic AI** through application-level systems and multi-step workflows.
+- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized applications.
 
 ---
 
