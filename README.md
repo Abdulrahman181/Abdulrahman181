@@ -2,7 +2,7 @@
 
 # Abdulrahman Ahmed
 
-### Mid-level AI/ML Engineer · GenAI/RAG · Computer Vision · Production AI
+### AI/ML Engineer · GenAI/RAG · Computer Vision · Production AI
 
 I design and deliver practical AI systems—from data preparation and model evaluation to APIs, retrieval workflows, and containerized deployment.
 
