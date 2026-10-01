@@ -36,9 +36,9 @@ I work across the AI/ML lifecycle, from **data preparation and model development
 | Project Area | Evidence |
 | --- | --- |
 | Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agricultural AI | Three computer-vision models for plant disease, harmful weeds, and agricultural pests, with database-backed agricultural information and a RAG-based application layer |
-| AI application engineering | Collaborative resume-analysis workflow combining document processing, structured extraction, requirement matching, retrieval, and guided career interactions |
-| Distributed ML/data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
+| Agentic AI & RAG | Multi-agent HR and IT assistant using **LangGraph**, with a supervisor routing queries between specialized agents |
+| AI application engineering | Collaborative resume-analysis application combining **document processing, structured extraction, requirement matching, retrieval, and AI-assisted workflows** |
+| Distributed ML & data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
 | Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
 
 > Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
