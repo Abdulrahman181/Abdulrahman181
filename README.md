@@ -152,14 +152,15 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
 
-- Contributed to AI projects across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data preparation, model experimentation, and application integration.
-- Used **Azure Machine Learning** for experiment tracking and model registration, alongside **Azure Blob Storage** for cloud-based data handling.
+- Contributed to AI workflows across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data preparation, experimentation, evaluation, and application integration.
+- Worked with **Azure Machine Learning** for experiment tracking and model registration.
+- Used **Azure Blob Storage** for cloud-based data and artifact handling.
 
 **Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
 
-- Collected, cleaned, transformed, and structured data from multiple web sources using **web scraping** for analysis and machine-learning workflows.
-- Contributed to **recommendation-system and chatbot solutions**, including backend and API integration.
-- Supported the workflow from data acquisition and preparation through model development and application integration.
+- Collected, cleaned, transformed, and structured data from web sources using **web scraping** for analysis and machine-learning workflows.
+- Contributed to **recommendation-system and chatbot solutions**, supporting data preparation, model development, and backend integration.
+- Worked across the workflow from **data acquisition and preparation to application integration**.
 
 ## Certifications & Professional Training
 
