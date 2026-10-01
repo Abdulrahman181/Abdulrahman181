@@ -2,7 +2,7 @@
 
 # Abdulrahman Ahmed
 
-### AI/ML Engineer · GenAI/RAG · Computer Vision · AI Engineering
+### AI Engineer · Machine Learning Engineer · Data Scientist
 
 I design and deliver practical AI systems—from data preparation and model evaluation to APIs, retrieval workflows, and containerized deployment.
 
