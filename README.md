@@ -62,13 +62,14 @@ A collaborative graduation project applying **computer vision and retrieval-augm
 
 ### Financial Fraud Detection System
 
-A personal machine-learning project for detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
+A personal machine-learning project focused on detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
 
-- Analyzed **6.36M PaySim transactions**, including **8,213 fraud cases** (~**0.129%**).
-- Engineered features from transaction timing, amounts, user activity, recipient activity, and transaction types.
-- Addressed class imbalance through downsampling and model-specific class-weighting strategies.
-- Trained **XGBoost, LightGBM, and CatBoost** models and combined them through a weighted ensemble.
-- Achieved **0.9519 ROC-AUC** on a chronological holdout containing **1,272,524 transactions**.
+- Analyzed **6.36M PaySim transactions**, including **8,213 fraud cases** (~**0.129%** of all transactions).
+- Engineered features from **transaction timing, amounts, user activity, recipient activity, and transaction types**.
+- Addressed severe class imbalance using **downsampling and model-specific class-weighting strategies**.
+- Trained and compared **XGBoost, LightGBM, and CatBoost** models for fraud detection.
+- Combined the individual models into a **weighted ensemble** to improve predictive performance.
+- Evaluated the final ensemble on a **chronological holdout containing 1,272,524 transactions**, achieving **0.9519 ROC-AUC**.
 
 **Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
 
