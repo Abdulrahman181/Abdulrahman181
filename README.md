@@ -45,7 +45,7 @@ I work across the AI/ML lifecycle, from **data preparation and model development
 
 ## Selected Projects
 
-A selection of applied AI projects covering computer vision, machine learning, retrieval-based applications, and data-intensive recommendation systems.
+A selection of applied AI projects covering machine learning, computer vision, Generative AI, agentic workflows, retrieval systems, and data-intensive AI applications.
 
 ### Napta Agricultural AI Platform
 
@@ -60,6 +60,8 @@ A collaborative graduation project applying **computer vision and retrieval-augm
 
 **Technologies:** Python · PyTorch · YOLO · OpenCV · Albumentations · FastAPI · Docker · RAG
 
+**Related repositories:** [Plant disease classification](https://github.com/Abdulrahman181/Classification-of-plant-diseases) · [Weed detection](https://github.com/Abdulrahman181/weed-detection) · [Pest detection](https://github.com/Abdulrahman181/pest-detection)
+
 ### Financial Fraud Detection System
 
 A personal machine-learning project focused on detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
@@ -71,7 +73,7 @@ A personal machine-learning project focused on detecting rare fraudulent transac
 - Combined the individual models into a **weighted ensemble** to improve predictive performance.
 - Evaluated the final ensemble on a **chronological holdout containing 1,272,524 transactions**, achieving **0.9519 ROC-AUC**.
 
-**Technologies:** Python, Pandas, scikit-learn, XGBoost, LightGBM, CatBoost, Jupyter
+**Technologies:** Python · Pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Jupyter
 
 [View the project →](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System)
 
@@ -84,7 +86,7 @@ A collaborative AI application for resume analysis, job matching, retrieval, and
 - Worked across **FastAPI services, SQLite persistence, retrieval components, and AI-driven application workflows**.
 - Contributed to separating **resume evidence, job requirements, and retrieved guidance** into distinct sources of context.
 
-**Technologies:** FastAPI, SQLite, SQLAlchemy, HTML/CSS, Vanilla JavaScript, RAG, Information Retrieval
+**Technologies:** FastAPI · SQLite · SQLAlchemy · HTML/CSS · JavaScript · RAG · Information Retrieval
 
 [View the project →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
 
