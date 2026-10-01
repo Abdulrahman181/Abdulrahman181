@@ -166,11 +166,11 @@ A personal computer-vision project for pixel-level semantic segmentation of urba
 
 **Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
 
-**HCIA-AI V3.5 & V4.0** | Huawei Academy
-
-**HCIA-Big Data V3.5 & V4.0** | Huawei Academy
-
 **Agentic AI Track** | ITI | 3-Month Program
+
+**HCIA-AI** | Huawei Academy | V3.5 & V4.0
+
+**HCIA-Big Data** | Huawei Academy | V3.5 & V4.0
 
 **Artificial Intelligence Training** | NTI | 120 Hours
 
