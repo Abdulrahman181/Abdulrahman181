@@ -20,11 +20,16 @@ I build AI systems across **model development, evaluation, retrieval, and applic
 
 ## Professional Focus
 
-- **Machine Learning:** model development, feature engineering, imbalanced learning, model selection, validation, and evaluation.
-- **Computer Vision:** object detection, semantic segmentation, image preprocessing, augmentation, and inference.
-- **Generative AI & Retrieval:** embeddings, semantic retrieval, RAG, document question answering, and LLM applications.
-- **Agentic AI:** agent workflows, task decomposition, tool calling, context retrieval, and multi-step execution.
-- **AI Engineering:** model integration, API development, model serving, application integration, and containerization.
+I work across the AI/ML lifecycle, from **data preparation and model development to evaluation, retrieval, and application integration**.
+
+### Core Areas
+
+- **Machine Learning** — supervised learning, ensemble methods, feature engineering, model evaluation, and imbalanced-data workflows
+- **Computer Vision** — image classification, object detection, and semantic segmentation
+- **NLP & Generative AI** — LLM applications, embeddings, semantic retrieval, RAG, and retrieval-grounded generation
+- **Agentic AI** — agent workflows, task routing, tool use, multi-step execution, and workflow orchestration
+- **AI Engineering** — API-based AI applications, modular architectures, testing, containerization, and deployment-oriented development
+- **Data & MLOps** — data pipelines, experiment tracking, reproducible workflows, and cloud ML workflows
 
 ## Selected Evidence
 
