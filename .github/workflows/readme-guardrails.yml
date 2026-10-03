@@ -1,0 +1,19 @@
+name: README guardrails
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  guardrails:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Run dependency-free README tests
+        run: python3 -m unittest discover -s tests -v

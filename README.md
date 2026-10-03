@@ -116,7 +116,7 @@ A collaborative engineering project for recommendation workflows over synthetic 
 - Exposed recommendation results through a **Flask REST API and Streamlit dashboard**.
 - Containerized the application workflow using **Docker Compose** for reproducible local execution.
 
-> Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
+> This engineering prototype uses synthetic data; it is not a clinical product or medical decision-support system, has not been clinically validated, and is not intended for use in patient care.
 
 **Technologies:** Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Airflow · MLflow · Flask · Streamlit · Docker Compose
 
