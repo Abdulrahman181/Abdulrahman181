@@ -4,227 +4,59 @@
 
 ### AI Engineer · Machine Learning Engineer
 
-**Generative AI · RAG · Agentic AI · Computer Vision**
+**Generative AI · RAG · Agentic AI · Computer Vision · MLOps**
 
-I build AI systems across **model development, evaluation, retrieval, and application integration**. My work spans **machine learning, computer vision, NLP, Generative AI, RAG, and agentic workflows**, with a focus on turning experiments into **usable AI applications**.
-
-**Based in Benha, Egypt · Open to AI/ML opportunities in Egypt, across the Gulf, and remotely**
+I build practical AI systems across data preparation, model development, evaluation, retrieval, APIs, and application integration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ahmed-ai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmannassar202@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrahman181)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdulrahman181/AI-ML-Portfolio)
 
 </div>
 
----
+## Featured Work
 
-## Professional Focus
+| Project | Focus |
+|---|---|
+| [AI Resume Analyzer](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development) | Document processing, structured extraction, retrieval, matching, FastAPI |
+| [HR Policy RAG System](https://github.com/Abdulrahman181/HR-Policy-Question-Answering-System-RAG) | RAG, policy QA, grounded LLM workflows |
+| [Financial Fraud Detection](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System) | Imbalanced learning, time-aware validation, thresholding |
+| [Sales Forecasting](https://github.com/Abdulrahman181/sales-forecasting-and-demand-prediction) | Forecasting, reusable pipelines, deployment workflow |
+| [Semantic Segmentation with U-Net](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net) | Computer vision, 8-class urban-scene segmentation |
+| [Plant Disease Classification](https://github.com/Abdulrahman181/Classification-of-plant-diseases) | Image classification and reproducible preprocessing |
+| [Telecom Churn System](https://github.com/Abdulrahman181/Telecom-Customer-Churn-Prediction-System) | ML application and Streamlit-oriented workflow |
+| [Olist MLOps Task](https://github.com/Abdulrahman181/mlops-task1-olist-postgresql) | PostgreSQL ingestion, validation, MLOps foundations |
 
-I work across the AI/ML lifecycle, from **data preparation and model development to evaluation, retrieval, and application integration**.
+## Explore by Area
 
-### Core Areas
+### Machine Learning
 
-- **Machine Learning** — supervised learning, ensemble methods, feature engineering, model evaluation, and imbalanced-data workflows
-- **Computer Vision** — image classification, object detection, and semantic segmentation
-- **NLP & Generative AI** — LLM applications, embeddings, semantic retrieval, RAG, and retrieval-grounded generation
-- **Agentic AI** — agent workflows, task routing, tool use, multi-step execution, and workflow orchestration
-- **AI Engineering** — API-based AI applications, modular architectures, testing, containerization, and deployment-oriented development
-- **Data & MLOps** — data pipelines, experiment tracking, reproducible workflows, and cloud ML workflows
-
-## Selected Evidence
-
-| Project Area | Evidence |
-| --- | --- |
-| Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agentic AI & RAG | Multi-agent HR and IT assistant using **LangGraph**, with a supervisor routing queries between specialized agents |
-| AI application engineering | Collaborative resume-analysis application combining **document processing, structured extraction, requirement matching, retrieval, and AI-assisted workflows** |
-| Distributed ML & data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
-| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
-
-> Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
-
-## Selected Projects
-
-A selection of applied AI projects covering machine learning, computer vision, Generative AI, agentic workflows, retrieval systems, and data-intensive AI applications.
-
-### Napta Agricultural AI Platform
-
-A collaborative graduation project applying **computer vision and retrieval-augmented AI** to practical agricultural problems.
-
-- Led the **AI development workstream**, owning the computer-vision solutions and their integration into the wider AI application.
-- Developed and evaluated workflows for **plant disease detection, agricultural pest detection and classification, and harmful weed detection/classification**.
-- Built a plant-disease detection workflow covering **12 crop disease profiles**, with predictions connected to database-backed agricultural knowledge.
-- Prepared and augmented image data, implemented preprocessing and inference workflows, and iterated across model configurations and YOLO variants.
-- Integrated the vision components with **OpenCV, Albumentations, FastAPI, and Docker** for application-level inference.
-- Connected model predictions to the project's agricultural knowledge and **RAG-based assistance workflow**, enabling contextual user-facing responses.
-
-**Technologies:** Python · PyTorch · YOLO · OpenCV · Albumentations · FastAPI · Docker · RAG
-
-**Related repositories:** [Plant disease classification](https://github.com/Abdulrahman181/Classification-of-plant-diseases) · [Weed detection](https://github.com/Abdulrahman181/weed-detection) · [Pest detection](https://github.com/Abdulrahman181/pest-detection)
-
-### Financial Fraud Detection System
-
-A personal machine-learning project focused on detecting rare fraudulent transactions under severe class imbalance and chronological evaluation constraints.
-
-- Analyzed **6.36M PaySim transactions**, including **8,213 fraud cases** (~**0.129%** of all transactions).
-- Engineered features from **transaction timing, amounts, user activity, recipient activity, and transaction types**.
-- Addressed severe class imbalance using **downsampling and model-specific class-weighting strategies**.
-- Trained and compared **XGBoost, LightGBM, and CatBoost** models for fraud detection.
-- Combined the individual models into a **weighted ensemble** to improve predictive performance.
-- Evaluated the final ensemble on a **chronological holdout containing 1,272,524 transactions**, achieving **0.9519 ROC-AUC**.
-
-**Technologies:** Python · Pandas · scikit-learn · XGBoost · LightGBM · CatBoost · Jupyter
-
-[View the project →](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System)
-
-### AI Resume Analyzer
-
-A collaborative AI application for resume analysis, job matching, retrieval, and career assistance.
-
-- Contributed to a workflow combining **document processing, structured extraction, deterministic requirement matching, retrieval, and AI-assisted responses**.
-- Helped structure job requirements into **required and preferred criteria** to support explicit matching and skill-gap analysis.
-- Worked across **FastAPI services, SQLite persistence, retrieval components, and AI-driven application workflows**.
-- Contributed to separating **resume evidence, job requirements, and retrieved guidance** into distinct sources of context.
-
-**Technologies:** FastAPI · SQLite · SQLAlchemy · HTML/CSS · JavaScript · RAG · Information Retrieval
-
-[View the project →](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
-
-### CorporateMind AI — Multi-Agent Enterprise Assistant
-
-A multi-agent HR and IT assistant designed around enterprise-style employee workflows using a stateful graph architecture.
-
-- Built a **multi-agent workflow** using **LangGraph**, with a supervisor responsible for intent classification and routing.
-- Implemented specialized **HR and IT agent nodes** connected through conditional graph transitions.
-- Used a shared **AgentState** to maintain conversation messages and routing information across the workflow.
-- Connected the HR workflow to policy retrieval so responses could be grounded in relevant internal documents.
-- Applied **Llama-3-8B-Instruct** with **4-bit quantization** for local model inference in GPU-based environments.
-- Implemented output refinement to separate internal routing tokens from the final user-facing response.
-- Tested the workflow in **Kaggle/Colab GPU environments** using representative HR and IT queries.
-
-**Technologies:** Python · LangChain · LangGraph · Llama-3 · BitsAndBytes · Accelerate
-
-[View the project →](https://github.com/Abdulrahman181/HR-Policy-Question-Answering-System-RAG)
-
-### Healthcare Recommendation System
-
-A collaborative engineering project for recommendation workflows over synthetic electronic health record data.
-
-- Processed synthetic **Synthea** electronic health record data using **Apache Spark 3.5.3, Hadoop HDFS, and ClickHouse**.
-- Implemented and evaluated three recommendation approaches: **ALS collaborative filtering, TF-IDF content-based recommendation, and an XGBoost hybrid approach**.
-- Integrated **Apache Airflow** for workflow orchestration and **MLflow** for experiment tracking and model lifecycle management.
-- Exposed recommendation results through a **Flask REST API and Streamlit dashboard**.
-- Containerized the application workflow using **Docker Compose** for reproducible local execution.
-
-> Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
-
-**Technologies:** Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Airflow · MLflow · Flask · Streamlit · Docker Compose
-
-[View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
-
-### Urban Scene Semantic Segmentation with U-Net
-
-A personal computer-vision project for pixel-level semantic segmentation of urban driving scenes using a U-Net encoder-decoder architecture.
-
-- Trained a **U-Net** model on the **Cityscapes** dataset across **8 semantic classes**.
-- Implemented image and mask preprocessing, class-label conversion, training, validation, and inference workflows.
-- Used U-Net skip connections to preserve spatial information for pixel-level segmentation.
-- Recorded **0.5387 validation mIoU** and **0.7002 validation Dice** in the evaluation output.
-- Included qualitative visualization of segmentation predictions to inspect model behavior across urban scenes.
-
-**Technologies:** Python · TensorFlow/Keras · U-Net · Cityscapes · NumPy · Matplotlib · Jupyter
-
-[View the project →](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net)
-
-## Professional Experience
-
-**AI Trainer — MFC** | Aug 2026 – Present
-
-- Deliver structured AI training from **foundational concepts through advanced topics**, combining technical explanation with practical implementation.
-- Lead hands-on exercises and project-based development across machine-learning workflows, model experimentation, evaluation, and AI application concepts.
-- Review learner implementations and guide problem solving, experimentation, and iterative development from concept to working solution.
-
-**Data Science Trainer — AXIS Tech Community** | Jan 2025 – Present
-
-- Deliver practical training across **Data Science, data analysis, SQL, Machine Learning, and project development**.
-- Guide learners through the workflow from data preparation and exploratory analysis to model development, evaluation, and implementation.
-- Support project-based learning through technical explanation, implementation guidance, and structured problem solving.
-
-## Technical Internships
-
-**AI Intern — Aitronix** | Sep 2025 – Nov 2025 | Remote
-
-- Contributed to AI workflows across **Computer Vision, Natural Language Processing, and Machine Learning**, supporting data preparation, experimentation, evaluation, and application integration.
-- Worked with **Azure Machine Learning** for experiment tracking and model registration.
-- Used **Azure Blob Storage** for cloud-based data and artifact handling.
-
-**Data Science Intern — Pure Soft** | Dec 2025 – Feb 2026 | On-site
-
-- Collected, cleaned, transformed, and structured data from web sources using **web scraping** for analysis and machine-learning workflows.
-- Contributed to **recommendation-system and chatbot solutions**, supporting data preparation, model development, and backend integration.
-- Worked across the workflow from **data acquisition and preparation to application integration**.
-
-## Certifications & Professional Training
-
-**Digital Egypt Pioneers Program (DEPI) — AI & Data Science Track** | MCIT | 6-Month Program
-
-**Agentic AI Track** | ITI | 3-Month Program
-
-**HCIA-AI** | Huawei Academy | V3.5 & V4.0
-
-**HCIA-Big Data** | Huawei Academy | V3.5 & V4.0
-
-**Artificial Intelligence Training** | NTI | 120 Hours
-
-**Machine Learning Training** | NTI | 72 Hours
-
-**Computer Vision Training** | NTI | 72 Hours
-
-**Agentic AI Track** | Digital Hub | 5-Week Program
-
-**Egyptian Talent Academy — AI Track** | NTI & Huawei
-
-## Technical Capabilities
-
-### Machine Learning & Data Science
-
-`Data Preparation` · `Feature Engineering` · `Supervised Learning` · `Ensemble Learning` · `Imbalanced Learning` · `Model Selection` · `Hyperparameter Optimization` · `Validation & Evaluation`
+[Customer Churn](https://github.com/Abdulrahman181/Customer-Churn-Prediction) · [Heart Failure](https://github.com/Abdulrahman181/Heart_Failure_Prediction) · [Diabetes](https://github.com/Abdulrahman181/Diabetes-screening) · [Chronic Kidney Disease](https://github.com/Abdulrahman181/chronic_kidney_disease) · [Mental Health](https://github.com/Abdulrahman181/Mental-Health-Prediction) · [Concrete Strength](https://github.com/Abdulrahman181/Concrete-Strength-Prediction) · [Glass Quality](https://github.com/Abdulrahman181/MachineHack-Glass-Quality-Prediction)
 
 ### Deep Learning & Computer Vision
 
-`Neural Network Modeling` · `CNN Architectures` · `Object Detection` · `Image Classification` · `Semantic Segmentation` · `Image Preprocessing` · `Data Augmentation` · `Inference Workflows`
+[Bone Fracture](https://github.com/Abdulrahman181/Bone_Fracture_Classification) · [Parkinson Detection](https://github.com/Abdulrahman181/Discovery-of-Parkinson-s-disease) · [Hieroglyph Recognition](https://github.com/Abdulrahman181/hieroglyphs-recognition) · [Pest Detection](https://github.com/Abdulrahman181/pest-detection) · [Weed Detection](https://github.com/Abdulrahman181/weed-detection) · [Plant Diseases](https://github.com/Abdulrahman181/Classification-of-plant-diseases)
 
-### NLP, Generative AI & Retrieval
+### NLP, RAG, LLMs & Agentic AI
 
-`Text Representation` · `Embeddings` · `Semantic Retrieval` · `Vector Search` · `RAG Systems` · `Document Question Answering` · `LLM Application Workflows`
+[Fake News Detection](https://github.com/Abdulrahman181/detecting-fake-news) · [HR Policy RAG](https://github.com/Abdulrahman181/HR-Policy-Question-Answering-System-RAG) · [Smart Document Assistant](https://github.com/Abdulrahman181/Smart-Document-Assistant) · [AI Resume Analyzer](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development)
 
-### Agentic AI
+### MLOps, Big Data & Applications
 
-`Agent Workflows` · `Task Decomposition` · `Intent Routing` · `Tool Calling` · `Stateful Orchestration` · `Multi-step Execution`
+[Olist PostgreSQL](https://github.com/Abdulrahman181/mlops-task1-olist-postgresql) · [Healthcare Recommendation System](https://github.com/amr-algazzar12/healthcare-recommendation-system) · [Sales Forecasting](https://github.com/Abdulrahman181/sales-forecasting-and-demand-prediction) · [Crime Data Mining](https://github.com/Abdulrahman181/Crime_Data_Mining) · [SHEGLAM Scraping](https://github.com/Abdulrahman181/Scrappig_SHEGLAM)
 
-### AI Engineering
+## Engineering Principles
 
-`AI Application Integration` · `Model & Retrieval Integration` · `API Development` · `Document Processing` · `Application Workflows` · `Testing` · `Containerized AI Applications`
+- Reproducible paths, environments, and experiments
+- Leakage-aware validation and honest metrics
+- Clear separation between research, baseline, and production readiness
+- No fabricated results when data or artifacts are unavailable
+- Medical and financial projects are educational/research artifacts unless independently validated
 
-### Data, MLOps & Cloud
+## Skills
 
-`Data Pipeline Workflows` · `Distributed Data Processing` · `Workflow Orchestration` · `Experiment Tracking` · `Model Registration` · `Cloud ML Workflows` · `Containerized ML Workflows`
+`Python` · `SQL` · `C` · `C++` · `scikit-learn` · `TensorFlow` · `PyTorch` · `OpenCV` · `FastAPI` · `Streamlit` · `LangChain` · `LangGraph` · `RAG` · `PostgreSQL` · `Spark` · `Airflow` · `MLflow` · `Docker`
 
-## Education
+## Contact
 
-**B.Sc. in Computer Science and Artificial Intelligence — Benha University**<br>
-*July 2025 · Graduation Project: Napta Agricultural AI Platform*
-
-## Currently Focused On
-
-- Building practical AI systems that connect **models, retrieval, APIs, and application workflows**.
-- Advancing **Generative AI, RAG, and Agentic AI** through application-level systems and multi-step workflows.
-- Strengthening **MLOps and AI delivery** through reproducible workflows, experiment tracking, and containerized applications.
-
----
-
-<div align="center">
-
-**Open to collaborating on practical AI, machine learning, Generative AI, and computer-vision projects.**
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/abdulrahman-ahmed-ai)
+- [Full project catalog](https://github.com/Abdulrahman181/AI-ML-Portfolio)
