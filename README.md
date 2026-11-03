@@ -120,7 +120,7 @@ A collaborative engineering project for recommendation workflows over synthetic 
 
 **Technologies:** Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Airflow · MLflow · Flask · Streamlit · Docker Compose
 
-[View the project →](https://github.com/amr-algazzar12/healthcare-recommendation-system)
+[View the project →](https://github.com/Abdulrahman181/healthcare-recommendation-system)
 
 ### Urban Scene Semantic Segmentation with U-Net
 
