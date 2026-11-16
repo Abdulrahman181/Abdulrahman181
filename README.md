@@ -35,13 +35,13 @@ I work across the AI/ML lifecycle, from **data preparation and model development
 
 | Project Area | Evidence |
 | --- | --- |
-| Fraud detection | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
-| Agentic AI & RAG | Multi-agent HR and IT assistant using **LangGraph**, with a supervisor routing queries between specialized agents |
-| AI application engineering | Collaborative resume-analysis application combining **document processing, structured extraction, requirement matching, retrieval, and AI-assisted workflows** |
-| Distributed ML & data systems | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
-| Semantic segmentation | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
+| [Fraud detection](https://github.com/Abdulrahman181/AI-Powered-Financial-Fraud-Detection-System) | **0.9519 ROC-AUC** on a chronological PaySim holdout containing **1,272,524 transactions** |
+| [Agentic AI & RAG](https://github.com/Abdulrahman181/HR-Policy-Question-Answering-System-RAG) | Multi-agent HR and IT assistant using **LangGraph**, with a supervisor routing queries between specialized agents |
+| [AI application engineering](https://github.com/Abdulrahman181/AI-Resume-Analyzer-development) | Collaborative resume-analysis application combining **document processing, structured extraction, requirement matching, retrieval, and AI-assisted workflows** |
+| [Distributed ML & data systems](https://github.com/amr-algazzar12/healthcare-recommendation-system) | Synthetic Synthea EHR workflow using **Spark, HDFS, ClickHouse, Airflow, and MLflow**, with multiple recommendation approaches and API/dashboard serving |
+| [Semantic segmentation](https://github.com/Abdulrahman181/Self-Driving-Car-Semantic-Segmentation-using-U-Net) | **0.5387 validation mIoU** and **0.7002 validation Dice** from an 8-class Cityscapes U-Net evaluation |
 
-> Reported metrics reflect the stated evaluation split and should not be interpreted as production performance.
+> Reported metrics reflect the stated evaluation split and should not be interpreted as production performance. The linked repositories are project-level references, not independent validation: this profile repository contains no project code, datasets, or evaluation artifacts, so these results have not been independently reproduced here.
 
 ## Selected Projects
 
@@ -116,7 +116,7 @@ A collaborative engineering project for recommendation workflows over synthetic 
 - Exposed recommendation results through a **Flask REST API and Streamlit dashboard**.
 - Containerized the application workflow using **Docker Compose** for reproducible local execution.
 
-> Uses synthetic data and is presented as an engineering prototype, not clinically validated medical decision support.
+> This engineering prototype uses synthetic data; it is not a clinical product or medical decision-support system, has not been clinically validated, and is not intended for use in patient care.
 
 **Technologies:** Apache Spark · PySpark · Hadoop HDFS · ClickHouse · Airflow · MLflow · Flask · Streamlit · Docker Compose
 
